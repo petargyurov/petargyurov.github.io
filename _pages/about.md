@@ -5,7 +5,9 @@ author: "Petar"
 permalink: /about/
 ---
 
-Hi, I'm Petar. I am a software developer based in London. I quit my job to start my own company, [Makely](https://makely.me).
+![Placeholder image](https://petargyurov-blog-assets.s3.eu-west-2.amazonaws.com/about/me.png "Placeholder image")
+
+Hi, I'm Petar. I am a software developer based in London. I recently quit my job to start my own company, [Makely](https://makely.me).
 
 When I'm not working I am day-dreaming of travelling the world and owning a little wood workshop. Currently trying to learn Spanish. For the 5<sup>th</sup> time.
 
