@@ -3,6 +3,10 @@ layout: default
 ---
 
 <div class="catalogue">
+  {% if site.posts.size == 0 %}
+    <h1 class="catalogue-item">Nothing here!</h1>
+  {% endif %}
+
   {% for post in paginator.posts %}
     <a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">
       <div>
