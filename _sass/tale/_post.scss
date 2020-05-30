@@ -60,4 +60,18 @@
     padding: 0;
     margin: 0;
   }
+
+  &-newsletter {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+  }
+
+  &-newsletter form {
+    width: 100%;
+  }
+
+  &-newsletter p {
+    text-align: center;
+  }
 }

@@ -1,7 +1,11 @@
 # Site settings
 title:          Petar Gyurov
 description:    "My blog"
-url:            "https://petargyurov.github.io"
+url:            https://petargyurov.github.io
+
+# Author
+author:
+  name:         Petar Gyurov
 
 # Build settings
 markdown:       kramdown
