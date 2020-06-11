@@ -45,7 +45,7 @@ Added a machine learning aspect to the feedback analysis for Dirty Bomb. Prototy
 <br>
 
 
-### Praesto Consulting (02/2016 - 09/2017)
+### Praesto Consulting (02/2016 - 05/2017)
 **Technical Consultant** <cite>&mdash; Python, JavaScript, SQL, Proprietary Software (Birst, OBIEE)</cite>
 
 Configured BI pipelines and developed custom data visualisations for large businesses such as Schneider Electric, Britvic and Madison Square Garden. Worked with a variety of large datasets, 
