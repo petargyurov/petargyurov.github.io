@@ -10,10 +10,6 @@ layout: default
   {% for post in paginator.posts %}
     <a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">
       <div>
-        {% assign draft = post.path | split: '.' %}
-        {% if draft[1] == 'draft' %}
-          <p class="catalogue-draft">DRAFT</p>
-        {% endif %}
         <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%B %d, %Y" }}</time>
         <h1 class="catalogue-title">{{ post.title }}</h1>
         <div class="catalogue-line"></div>

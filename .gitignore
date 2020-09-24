@@ -1,5 +1,4 @@
 _site/
 .jekyll-cache/
 Gemfile.lock
-ideas.md
-*.draft.md
+_drafts/
