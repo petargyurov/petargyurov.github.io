@@ -30,9 +30,8 @@ a side exploration into the [Nyquist–Shannon Sampling Theorem](https://en.wiki
 ### [Makely](https://makely.me) (08/2019 - Present)
 **Founder, Developer** <cite>&mdash; Python, Flask, AWS, ReactJS, PostgreSQL</cite>
 
-Makely is a 3D printing platform that connects everyday people to 3D printing enthusiasts and hobbyists, allowing them to print their ideas with virtually zero knowledge of the tech. 
-I am currently the sole developer. Looking to release sometime between Q4 2020 and Q1 2021. If you are interested, drop me an email.
-<br>
+Makely is a 3D printing platform that connects everyday people to 3D printing enthusiasts and hobbyists, allowing them to print their ideas with virtually zero knowledge of the tech.
+I am currently looking for a co-founder and for possible investments.
 <br>
 
 ### Splash Damage (08/2017 - 08/2019)
