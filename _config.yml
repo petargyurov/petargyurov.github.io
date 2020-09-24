@@ -2,6 +2,8 @@
 title:          Petar Gyurov
 description:    "My blog"
 url:            https://petargyurov.github.io
+collections:
+  projects:
 
 # Author
 author:

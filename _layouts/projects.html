@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+{% assign projects = site.projects | sort: "order" %}
+
+<div class="catalogue">
+    <h3 class="post-subtitle">My Projects</h3>
+    {% for project in projects %}
+      <a href="{{ project.link }}" class="catalogue-item">
+        <div>
+          <span class="catalogue-time">{{ project.status | upcase }}</span>
+          <h1 class="catalogue-title">{{ project.title }}</h1>
+          <div class="catalogue-line"></div>
+          <p>
+            {{ project.content | strip_html | truncatewords: 30 }}
+          </p>
+  
+        </div>
+      </a>
+    {% endfor %}
+  </div>
