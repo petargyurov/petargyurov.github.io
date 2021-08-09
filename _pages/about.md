@@ -34,14 +34,24 @@ a side exploration into the [Nyquist–Shannon Sampling Theorem](https://en.wiki
 
 ## Work
 
-### New Zealand Department of Conservation (12/2020 - Present)
+### The Big Wild (07/2021 - Present)
 
-**Software Developer Volunteer** <cite>&mdash; Python, Tensorflow, ElectronJS, Svelte</cite>
+**ML Software Developer** <cite>&mdash; C++, dlib, Python</cite>
 
-Developed an AI-assisted solution for labelling and sorting camera trap images. The desktopapplication is an integral part of the data processing pipeline for conservation scientists working tosave endangered species. Built using ElectronJS, Svelte, Python, Tensorflow.
+Currently working on a range of AI prototypes to improve wildlife conservation efforts, like face recognition for polar bears and mountain lions. More to come soon!
 
 <div class="catalogue-divider"></div>
 <br>
+
+### New Zealand Department of Conservation (12/2020 - 03/2021)
+
+**ML Software Developer Volunteer** <cite>&mdash; Python, Tensorflow, ElectronJS, Svelte</cite>
+
+Developed an AI-assisted solution for labelling and sorting camera trap images. The desktop application is an integral part of the data processing pipeline for conservation scientists working to save endangered species. Built using ElectronJS, Svelte, Python, Tensorflow.
+
+<div class="catalogue-divider"></div>
+<br>
+
 ### Makely (08/2019 - 12/2020)
 
 **Founder, Full-Stack Developer** <cite>&mdash; Python, Flask, AWS, ReactJS, PostgreSQL</cite>
@@ -51,6 +61,7 @@ on pause. If you are interested in being a co-founder please get in touch.
 
 <div class="catalogue-divider"></div>
 <br>
+
 ### Splash Damage (08/2017 - 08/2019)
 
 **Backend Engineer** <cite>&mdash; Python, Flask, Golang, C#, AWS, Docker, Kubernetes, PostgreSQL</cite>
