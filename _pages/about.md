@@ -9,7 +9,7 @@ permalink: /about/
 
 Hi, I'm Petar. I am a software developer based in London. I have some data science and machine learning experience. Trying to enter the conservation space.
 
-> 💻🟢 Currently open to short-term work opportunities.
+> 💻🟢 Currently open to freelance opportunities.
 
 When I'm not working I am day-dreaming of travelling the world and owning a little wood workshop. Currently trying to learn Spanish. For the 5<sup>th</sup> time.
 
@@ -47,7 +47,7 @@ Currently working on a range of AI prototypes to improve wildlife conservation e
 
 **ML Software Developer Volunteer** <cite>&mdash; Python, Tensorflow, ElectronJS, Svelte</cite>
 
-Developed an AI-assisted solution for labelling and sorting camera trap images. The desktop application is an integral part of the data processing pipeline for conservation scientists working to save endangered species. Built using ElectronJS, Svelte, Python, Tensorflow.
+Developed [Megadetector GUI](https://github.com/petargyurov/megadetector-gui), an open source, AI-assisted solution for labeling and sorting camera trap images. The desktop application is an integral part of the data processing pipeline for conservation scientists working to save endangered species. Built using ElectronJS, Svelte, Python, Tensorflow.
 
 <div class="catalogue-divider"></div>
 <br>
@@ -68,7 +68,7 @@ on pause. If you are interested in being a co-founder please get in touch.
 
 Developed the backend for the PC game Dirty Bomb and an another unannounced project. The live-service nature of the games required the backend(s) to be flexible, with low overhead on new features and reliable scaling.
 
-Added a machine learning aspect to the feedback analysis for Dirty Bomb. Prototyped an analytics pipeline to handle events for all of the company's titles.
+Improved the player sentiment analysis using a Naive Bayes classifier. Prototyped an analytics pipeline to handle high-throughput events for all of the company's titles.
 
 <div class="catalogue-divider"></div>
 <br>
