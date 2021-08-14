@@ -5,7 +5,7 @@ author: 'Petar'
 permalink: /about/
 ---
 
-![Placeholder image](https://petargyurov-blog-assets.s3.eu-west-2.amazonaws.com/about/me.png 'Placeholder image')
+![Me](/assets/images/me.png)
 
 Hi, I'm Petar. I am a software developer based in London. I have some data science and machine learning experience. Trying to enter the conservation space.
 
