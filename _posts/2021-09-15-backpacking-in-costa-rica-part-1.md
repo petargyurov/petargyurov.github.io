@@ -101,4 +101,4 @@ The town itself felt very quiet, with most shops and restaurants closed. There i
 
 --
 
-That's it for Part 1! Check out the Part 2, where I'll go through the central valley part of our trip.
+That's it for Part 1! Check out the [Part 2](/2021-09-16/backpacking-in-costa-rica-part-2), where I'll go through the central valley part of our trip.
