@@ -1,15 +1,13 @@
 ---
 layout: post
-title: 'About Me'
-author: 'Petar'
+title: "About Me"
+author: "Petar"
 permalink: /about/
 ---
 
 ![Me](/assets/images/me.png)
 
-Hi, I'm Petar. I am a software developer based in London. I have some data science and machine learning experience. Trying to enter the conservation space.
-
-> 💻🟢 Currently open to freelance opportunities.
+Hi, I'm Petar. I am a software developer based in London.
 
 When I'm not working I am day-dreaming of travelling the world and owning a little wood workshop. Currently trying to learn Spanish. For the 5<sup>th</sup> time.
 
@@ -34,11 +32,20 @@ a side exploration into the [Nyquist–Shannon Sampling Theorem](https://en.wiki
 
 ## Work
 
-### The Big Wild (07/2021 - Present)
+### Keen AI (10/2021 - Present)
 
-**ML Software Developer** <cite>&mdash; C++, dlib, Python</cite>
+**Technical Lead**
 
-Currently working on a range of AI prototypes to improve wildlife conservation efforts, like face recognition for polar bears and mountain lions. More to come soon!
+I am working on a variety of different projects, from object detection to aid efforts against Ash dieback disease to segmentation models used in corrosion assessment in steelwork. Concurrently developing our KAI platform that pieces some of this data together.
+
+<div class="catalogue-divider"></div>
+<br>
+
+### The Big Wild (07/2021 - 02/02/2022)
+
+**Machine Learning Developer** <cite>&mdash; C++, dlib, Python</cite>
+
+I helped The Big Wild prototype an object detector and landmark detector for polar bears which is part of a bigger pipeline that will eventually be able to distinguish individual polar bears using face detection. The aim is to tackle the difficulties faced in polar bear tracking by providing a less invasive and less resource consuming alternative.
 
 <div class="catalogue-divider"></div>
 <br>
