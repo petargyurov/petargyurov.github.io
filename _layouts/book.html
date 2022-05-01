@@ -2,6 +2,9 @@
 layout: default
 ---
 
+<!-- Content from _pages/books.md -->
+{{ content }}
+
 {% assign books = site.books %}
 <div class="bookshelf">
     {% for book in books %}
@@ -44,7 +47,7 @@ layout: default
            
     // })
     let availablePatterns = ["argyle", "tartan"]  // we could probably get these programatically 
-    let availableColours = ["maroon", "darkgreen", "darkolivegreen", "brown", "saddlebrown", "sienna"]
+    let availableColours = ["maroon", "darkgreen", "darkolivegreen", "brown", "saddlebrown", "sienna", "midnightblue"]
     
     // assign a random height, pattern and colour to each book
     spines.map(function(s, i) {
