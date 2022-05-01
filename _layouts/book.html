@@ -7,7 +7,13 @@ layout: default
     {% for book in books %}
     <div class="book">
         <div class="side spine">
-          S
+          <span class="spine-title">
+            {{ book.title }}
+          </span>
+          <span class="spine-author">
+            {{ book.author_first_name | slice: 0 }}{{ book.author_last_name | slice: 0 }}
+          </span>
+          
         </div>
         <div class="side top">
         </div>
@@ -17,15 +23,45 @@ layout: default
     {% endfor %}
 </div>
 
-<!-- <script>
-    let books = document.getElementsByClassName("book")
-    for(const b in books) {
-        if (books.hasOwnProperty(b)) {
-            let book = books[b]
-            book.addEventListener("mouseover", (e)=>{
-                book.style.zIndex = 9999;
-            }) 
-        }
-    };
+<script>
+    function getRandomInt(min, max) {
+        min = Math.ceil(min);
+        max = Math.floor(max);
+        return Math.floor(Math.random() * (max - min + 1)) + min;
+    }
+
+    function randomChoice(array){
+        return array[Math.floor(Math.random() * array.length)];
+    }
+
+    let spines = Object.values(document.getElementsByClassName("spine"))
+    let covers = Object.values(document.getElementsByClassName("cover"))
+    let tops = Object.values(document.getElementsByClassName("top"))
+    
+    // let books = Object.values(document.getElementsByClassName("book"))
+    // books.forEach((book) => {
+    //    Object.values(book.children).forEach((side) => {
+           
+    // })
+    let availablePatterns = ["argyle", "tartan"]  // we could probably get these programatically 
+    let availableColours = ["maroon", "darkgreen", "darkolivegreen", "brown", "saddledbrown", "sienna"]
+    
+    // assign a random height, pattern and colour to each book
+    spines.map(function(s, i) {
+        let randomHeight = getRandomInt(220, 290);
+        s.style.height = `${randomHeight}px`;
+        s.style.top = `${280 - randomHeight}px`;
+
+        let randomPattern = randomChoice(availablePatterns)
+        s.style.backgroundImage = `var(--${randomPattern})`
+        
+        let randomColor = randomChoice(availableColours)
+        s.style.backgroundColor = randomColor;
+        
+        covers[i].style.height = `${randomHeight}px`;
+        covers[i].style.top = `${280 - randomHeight}px`;
+
+        tops[i].style.top = `${280 - randomHeight}px`;
+    });
 </script>
-   -->
+  
