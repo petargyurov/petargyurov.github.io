@@ -4,6 +4,7 @@ description:    "My blog"
 url:            https://petargyurov.github.io
 collections:
   projects:
+  books:
 
 # Author
 author:

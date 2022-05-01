@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+{% assign books = site.books %}
+<div class="bookshelf">
+    {% for book in books %}
+    <div class="book">
+        <div class="side spine">
+          S
+        </div>
+        <div class="side top">
+        </div>
+        <div class="side cover" style="background-image: url({{ book.cover_url }})">
+        </div>
+      </div>
+    {% endfor %}
+</div>
+
+<!-- <script>
+    let books = document.getElementsByClassName("book")
+    for(const b in books) {
+        if (books.hasOwnProperty(b)) {
+            let book = books[b]
+            book.addEventListener("mouseover", (e)=>{
+                book.style.zIndex = 9999;
+            }) 
+        }
+    };
+</script>
+   -->
