@@ -11,7 +11,7 @@ At the start of 2022 I set myself a goal to get into the habit of reading.
 </small>
 
 <small>
-Following the advice from _Atomic Habits_, I decided to chain this new habit to an existing one: drinking my morning coffee. It has worked tremendously well. I've read more books this year than the previous 10 combined. It also helps that my work does a montly book club which encourages me to read at least 1 book a month.
+Following the advice from _Atomic Habits_, I decided to chain this new habit to an existing one: drinking my morning coffee. It has worked tremendously well. It also helps that my work does a montly book club which encourages me to read at least 1 book a month.
 </small>
 
 <small>
