@@ -3,25 +3,14 @@ layout: default
 ---
 
 <!-- Content from _pages/books.md -->
-{{ content }} {% assign books = site.books %}
-<div class="bookshelf">
-  {% for book in books %}
-  <div class="book">
-    <div class="side spine">
-      <span class="spine-title"> {{ book.title }} </span>
-      <span class="spine-author">
-        {{ book.author_first_name | slice: 0 }}{{ book.author_last_name | slice:
-        0 }}
-      </span>
-    </div>
-    <div class="side top"></div>
-    <div
-      class="side cover"
-      style="background-image: url({{ book.cover_url }})"
-    ></div>
-  </div>
-  {% endfor %}
-</div>
+{{ content }} 
+
+{% include bookshelf_macro.html year=2022 %}
+{% include bookshelf_macro.html year=2021 %}
+{% include bookshelf_macro.html year=2020 %}
+{% include bookshelf_macro.html year=2019 %}
+{% include bookshelf_macro.html year=2018 %}
+{% include bookshelf_macro.html %}
 
 <script>
   function getRandomInt(min, max) {
