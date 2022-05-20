@@ -10,7 +10,7 @@
     font-size: 1.1rem;
   }
 
-  .top {
+  .top-button {
     @include transition(all .3s ease-out);
     color: $default-color;
     font-family: $sans-serif;

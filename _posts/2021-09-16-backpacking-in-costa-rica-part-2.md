@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Backpacking in Costa Rica: Part 2'
+title: 'Backpacking in Costa Rica'
+subtitle: 'Part 2'
 author: 'Petar'
 ---
 
