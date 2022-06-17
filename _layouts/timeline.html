@@ -1,0 +1,37 @@
+---
+layout: post
+---
+
+{{ content }}
+
+<ul class="timeline timeline-centered">
+  {% for t in site.data.teleporters %}
+    {% if t.section %}
+      <li class="timeline-item period">
+          <div class="timeline-info"></div>
+          <div class="timeline-marker"></div>
+          <div class="timeline-content">
+              <h2 class="timeline-title">{{ t.section }}</h2>
+          </div>
+      </li>
+    {% else %}
+      <li class="timeline-item">
+        <div class="timeline-info">
+            <h3>{{ t.date }}</h3>
+            {% if t.image_left %}
+              <img class="timeline-image" src="{{ t.image_left }}" />
+              <em>{{ t.image_left_caption }}</em>
+            {% endif %}
+        </div>
+        <div class="timeline-marker"></div>
+        <div class="timeline-content">
+            <p>{{ t.content | newline_to_br }}</p>
+            {% if t.image_right_bottom %}
+              <img class="timeline-image" src="{{ t.image_right_bottom }}" />
+              <em>{{ t.image_right_bottom_caption }}</em>
+            {% endif %}
+        </div>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>

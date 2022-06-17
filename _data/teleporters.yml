@@ -1,0 +1,92 @@
+- section: Humble Beginnings
+
+- date: 2013
+  content: >
+    Scientists in [....] beat the previous teleportation record in 
+    an experiment which moved a [....] XX km across to another lab.
+
+- date: 2099
+  content: Researchers manage to teleport 1 gram of pure iron 10 meters.
+
+- date: 2145
+  content: >
+    The first organic sample, a single E.Coli bacterium was successfully 
+    teleported on the other side of the globe, and continued to live for 
+    approximately 10 minutes.
+
+- date: 2218
+  content: We had a pandemic.
+
+- section: The Start of Something Big
+
+- date: 2224
+  image_right_bottom: /assets/images/teleporters/t1.png
+  image_right_bottom_caption: A T1 prototype, seen here in a testing facility
+  content: >
+    The first industrial teleporter is unveiled. Being extremely large and requiring 
+    enormous amounts of energy, it made them only suitable for factories, ports 
+    and other manufacturing facilities. 
+
+- date: 2226
+  content: >
+    Further iterations bring the maximum range of the T1 to 10km, but it must be noted
+    that the range was inversely proprortional to the mass of the target object.
+
+- date: 2229
+  content: >
+    Stock markets falter as companies fail to deliver on their promises of organic matter 
+    teleportation.
+
+- date: 2230
+  content: >
+    In a move widely considered controversial, Royal Mail became the largest 
+    adopter of the T1, replacing their entire internal infrastructure with 
+    several hundred units to move mail and packages between central depots. 
+    Perhaps predictably, government mishandling lead to the biggest ever 
+    customer payout when a T1 unit malfunctioned, losing millions of letters 
+    and packages.
+
+- date: 2233
+  content: >
+    After several more iterations, adoption of the T1 is beginning to spread amongst 
+    nations' logistical sectors.
+
+- section: A New Era
+
+- date: 2241
+  # image_right_bottom: "/assets/images/teleporters/t3.png"
+  # image_right_bottom_caption: The T3 had a drastically improved range and weight limits
+  content: >
+    The entire logistical landscape is transformed, with almost all traditional 
+    freight services being replaced by teleporter units. Transportation of goods is 
+    no longer a bottleneck in the supply chain. Packaging waste is reduced. With the almost
+    total annihilation of shipping, cargo and delivery services, unemployment rates are 
+    at an all time high.
+
+- date: 2242
+  content: >
+    The automotive industry, particularly the truck and transport vehicle sector, begins to
+    show signs of a decline.
+
+- date: 2246
+  content: >
+    Moderately peaceful anti-teleporter protests are staged in major cities around the globe.
+    
+- date: 2247
+  content: >
+    The first consumer-level teleporter is made available. The unit is capable of teleporting 
+    small objects to other units. As the hype settles, the lack of real-life use cases with this 
+    form factor finally hits home, sending tens of start-ups into bankruptcy.
+
+- date: 2239
+  content: >
+    [...] announces the first ever teleporter capable for teleporting humans 
+    (and organic matter all round). 
+
+- section: Human Network 2.0
+
+- date: 2240
+  content: >
+    The Ascenda X1 launches as part of a partenership programme with major public
+    transport providers. Airports, train and underground stations are repurposed
+    to accomodate teleporter travel
