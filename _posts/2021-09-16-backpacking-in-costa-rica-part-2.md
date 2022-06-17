@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 'Backpacking in Costa Rica'
-subtitle: 'Part 2'
+subtitle: 'La Fortuna'
 author: 'Petar'
+category: 'Costa Rica'
 ---
 
 <!-- <img src="/assets/images/costa-rica/uvita.jpg" width="500" />

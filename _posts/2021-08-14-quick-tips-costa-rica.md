@@ -2,6 +2,7 @@
 layout: post
 title: 'Quick Tips: Costa Rica 🇨🇷'
 author: 'Petar'
+category: 'Costa Rica'
 ---
 
 Here are some bite-sized tips about life in Costa Rica that I learned whilst backpacking there for 2 months. 
