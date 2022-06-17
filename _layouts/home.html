@@ -2,6 +2,10 @@
 layout: default
 ---
 
+<br/>
+<h1 class="post-title">My Blog</h1>
+<div class="post-line"></div>
+
 <div class="catalogue">
   {% if site.posts.size == 0 %}
     <h1 class="catalogue-item">Nothing here!</h1>
@@ -19,7 +23,8 @@ layout: default
       <div>
         <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%B %d, %Y" }}</time>
         {% if post.subtitle %}
-          <h2 class="catalogue-title">{{ post.title }} - {{post.subtitle}}</h2>
+          <h2 class="catalogue-title">{{ post.title }} ⊷ {{post.subtitle}}</h2>
+          
         {% else %}
           <h2 class="catalogue-title">{{ post.title }}</h2>
         {% endif %}
