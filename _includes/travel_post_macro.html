@@ -1,0 +1,42 @@
+{% assign country = site.posts | where: "country", include.country %}
+
+<h2 class="catalogue-title">{{ include.country }}</h2>
+<div class="catalogue-line"></div>
+<br/>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="300" height="300" viewBox="0 0 400 400">  
+  <defs>
+    <g id="pin">
+        <circle cx="0" cy="0" r="7" fill="#c20000" stroke="white" stroke-width="2"/>
+    </g>
+  </defs>
+
+  <g>
+    <image xlink:href="/assets/maps/{{ include.country }}.svg"/>
+  </g>
+  
+  <g id="markers-{{ include.country }}"></g>
+</svg>
+
+
+<script>
+
+var svgNS = "http://www.w3.org/2000/svg";
+var xlinkNS = "http://www.w3.org/1999/xlink";
+
+{% for post in country %}
+  var markerPositions = '{{post.markers}}'
+  markerPositions = markerPositions.split(',')
+  markerPositions.forEach(function(m, index, array) {
+    array[index] = parseInt(m.trim())
+  });
+  
+  var use = document.createElementNS(svgNS, "use");
+  use.setAttributeNS(xlinkNS, "href", "#pin");
+  use.setAttribute("x", markerPositions[0]);
+  use.setAttribute("y", markerPositions[1]);
+  document.getElementById("markers-{{ include.country }}").appendChild(use);
+{% endfor %}
+
+</script>

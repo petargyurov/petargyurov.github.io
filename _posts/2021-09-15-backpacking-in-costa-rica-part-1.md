@@ -3,7 +3,6 @@ layout: post
 title: 'Backpacking in Costa Rica'
 subtitle: 'San Jose, Puerto Viejo'
 author: 'Petar'
-category: 'Costa Rica'
 ---
 
 <!-- <img src="/assets/images/costa-rica/uvita.jpg" width="500" />

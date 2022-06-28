@@ -1,0 +1,66 @@
+---
+layout: default
+---
+
+<div class="catalogue">
+  {% if site.posts.size == 0 %}
+    <h1 class="catalogue-item">Nothing here!</h1>
+  {% endif %}
+
+  {% for post in paginator.posts %}
+    {% if post.title == "About Me" %}
+      {% assign post_url = "/about" %}
+    {% else %}
+      {% assign post_url = post.url %}
+    {% endif %}
+
+    {% if post.category.size > 0 %}
+      {%continue%}
+    {% endif %}
+
+    <a href="{{ post_url | prepend: site.baseurl }}" class="catalogue-item">
+      <div>
+        <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%B %d, %Y" }}</time>
+        {% if post.subtitle %}
+          <h2 class="catalogue-title">{{ post.title }} - {{post.subtitle}}</h2>
+        {% else %}
+          <h2 class="catalogue-title">{{ post.title }}</h2>
+        {% endif %}
+        <div class="catalogue-line"></div>
+
+        <small>
+          {{ post.content | strip_html | truncatewords: 30 }}
+        </small>
+
+      </div>
+    </a>
+  {% endfor %}
+  <br/>
+  {% for category in site.categories %}
+    <h2 class="catalogue-title">{{ category | first }}</h2>
+    <div class="catalogue-line"></div>
+    {% for post in category.last %}
+      <a href="{{ post_url | prepend: site.baseurl }}" class="">
+        <div>
+          {% if post.subtitle %}
+            <strong class="catalogue-title">❖ {{ post.title }} - {{post.subtitle}}</strong>
+          {% else %}
+            <strong class="catalogue-title">❖ {{ post.title }}</strong>
+          {% endif %}
+        </div>
+      </a>
+    {% endfor %}
+  {% endfor %}
+
+</div>
+
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="left arrow">&#8592;</a>
+  {% endif %}
+  {% if paginator.last_page %}
+    <a href="{{ paginator.last_page_path | prepend: site.baseurl }}" class="right arrow">&#8594;</a>
+  {% endif %}
+
+  <span>{{ paginator.page }}</span>
+</div>

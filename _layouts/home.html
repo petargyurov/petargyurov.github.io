@@ -11,6 +11,16 @@ layout: default
     <h1 class="catalogue-item">Nothing here!</h1>
   {% endif %}
 
+
+  <!-- do we use the same pattern as the book macro or do we find a way to iterate here? -->
+  <!-- {% for post in site.categories.costa_rica %}
+      <h1>{{post.title}}</h1>
+      <h4>{{post.map}}</h4>
+  {% endfor %} -->
+
+  {% include travel_post_macro.html country="Costa Rica" %}
+  {% include travel_post_macro.html country="Thailand" %}
+
   {% for post in paginator.posts %}
     
     {% if post.title == "About Me" %}
