@@ -6,14 +6,14 @@ author: 'Petar'
 category: 'Costa Rica'
 ---
 
-<!-- <img src="/assets/images/costa-rica/uvita.jpg" width="500" />
+<!-- <img loading="lazy" src="/assets/images/costa-rica/uvita.jpg" width="500" />
 
-[<img src="/assets/images/costa-rica/uvita.jpg" width="250"/>](/assets/images/costa-rica/uvita.jpg) -->
+[<img loading="lazy" src="/assets/images/costa-rica/uvita.jpg" width="250"/>](/assets/images/costa-rica/uvita.jpg) -->
 
 <!-- á é í ó ú ñ ü    Á É Í Ó Ú Ñ Ü    ¿ ¡ ₡ -->
 
 
-<img src="/assets/images/costa-rica/cover-3.jpg" />
+<img loading="lazy" src="/assets/images/costa-rica/cover-3.jpg" />
 <br/>
 
 Whilst we were in the heart of Costa Rica, we couldn't miss going to the cloud forests of Monteverde. There isn't all that much else to do here so we knew we'd only be there for a few days. 
@@ -30,7 +30,7 @@ If you read [Part 2](/2021-09-16/backpacking-in-costa-rica-part-2), you'll know 
 
 Though Eric didn't live in Santa Elena, he kindly picked us up from the main street and drove us to the Moteverde Reserve entrance. Tickets were $25 each and Eric's services cost us another $25 each, plus tips. Not cheap, but I highly recommend getting a guide because _they will_ spot the wildlife and _you won't_. Besides, quetzals are tricky to spot -- they're an ellusive, shy bird -- guides have telescopes/binoculars and they are trained in spotting wildlife. We came across a group of guides at the entrance (waiting for customers) all pointing their telescopes at the far treeline above: one of them had managed to spot a tiny rare snake in the dense crowns only because a bird "had been acting strange". 5 minutes later another group formed around a guide who spotted a rare beetle 30 meters up a tree branch. I had trouble seeing it even with a telescope.
 
-<img src="/assets/images/costa-rica/golden-beetle.jpg" /> *A golden scarab beetle, Chrysina aurigans* | <img src="/assets/images/costa-rica/coiled-snake.jpg" width="1265" /> *A well camoflauged side stripe pit viper*
+<img loading="lazy" src="/assets/images/costa-rica/golden-beetle.jpg" /> *A golden scarab beetle, Chrysina aurigans* | <img loading="lazy" src="/assets/images/costa-rica/coiled-snake.jpg" width="1265" /> *A well camoflauged side stripe pit viper*
 
 <br/>
 
@@ -38,13 +38,13 @@ Eric would spend some time walking silently before abruptly yet nonchalantly pro
 
 He had an excellent story for us: a few years back, when he was stil an active guide, he worked alongside another colleague who never quite got the hang of some bird calls. One particular quetzal learned to immitate the guide's ersatz call and from then on the rest of the guides didn't know if they could hear their colleague or the quetzal's mimicry! 
 
-<img src="/assets/images/costa-rica/quetzal-1.jpg" /> | <img src="/assets/images/costa-rica/quetzal-2.jpg"/>
+<img loading="lazy" src="/assets/images/costa-rica/quetzal-1.jpg" /> | <img loading="lazy" src="/assets/images/costa-rica/quetzal-2.jpg"/>
 
 <br/>
 
 I remember expecting to see _a little more_ wildlife in the reserve, but such is the nature of nature; it doesn't always come out to play. At the end of the day, we got what we came for: quetzals. We did also see a couple of different toucan species, some howler monkeys, various butterfly species and a handful of other birds that I can't remember the name of.
 
-<img src="/assets/images/costa-rica/butterfly-1.jpg" /> | <img src="/assets/images/costa-rica/butterfly-2.jpg"/>
+<img loading="lazy" src="/assets/images/costa-rica/butterfly-1.jpg" /> | <img loading="lazy" src="/assets/images/costa-rica/butterfly-2.jpg"/>
 
 <br/>
 
@@ -54,13 +54,13 @@ Santa Elena is pretty small. We were pretty conscious of how expensive some of t
 
 One of those fund-draining activities is ziplining through the cloud forest canopy. There were a two or three different providers who operate in different local forests. I believe we ended up going to Selvatura Park. It was pretty fun but I didn't feel like it was some once-in-a-lifetime experience. 
 
-<img src="/assets/images/costa-rica/selvatura-1.jpg" /> | <img src="/assets/images/costa-rica/selvatura-2.jpg"/>
+<img loading="lazy" src="/assets/images/costa-rica/selvatura-1.jpg" /> | <img loading="lazy" src="/assets/images/costa-rica/selvatura-2.jpg"/>
 
 <br/>
 
 We also went to the local (free) attraction, the Ficus Root Bridge. It's a short walk from the center. We went down some inconspicuous path into the forest which ran alongside a stream. The ficus tree had sprawled its root(s) across the small chasm, creating a natural bridge over the stream. It unfortunately didn't lead anywhere, but it did make for great Tarzan-esque pictures!
 
-<img src="/assets/images/costa-rica/ficus-root-bridge.jpg" />
+<img loading="lazy" src="/assets/images/costa-rica/ficus-root-bridge.jpg" />
 <br/>
 
 That's mostly it for Monteverde. At this point we had made plans to go to most southern parts of the country in order to spend 10 days at a turtle conservation eco project, as well as visit the infamous Corcovado National Park, all of it detailed in the next part.

@@ -6,14 +6,14 @@ author: 'Petar'
 category: 'Costa Rica'
 ---
 
-<!-- <img src="/assets/images/costa-rica/uvita.jpg" width="500" />
+<!-- <img loading="lazy" src="/assets/images/costa-rica/uvita.jpg" width="500" />
 
-[<img src="/assets/images/costa-rica/uvita.jpg" width="250"/>](/assets/images/costa-rica/uvita.jpg) -->
+[<img loading="lazy" src="/assets/images/costa-rica/uvita.jpg" width="250"/>](/assets/images/costa-rica/uvita.jpg) -->
 
 <!-- á é í ó ú ñ ü    Á É Í Ó Ú Ñ Ü    ¿ ¡ -->
 
 
-<img src="/assets/images/costa-rica/cover.jpg" />
+<img loading="lazy" src="/assets/images/costa-rica/cover.jpg" />
 <br/>
 In May 2021 we packed our bags and left for Costa Rica. Originally having planned to do this trip a few months earlier, we had already quit our jobs and were solely waiting for the COVID-19 restrictions to be lifted for international travellers _leaving_ the UK. A few stressful hours at the airport, one short layover in Madrid and 13 hours later we landed in San José, where our adventure begins.
 
@@ -23,7 +23,7 @@ We didn't have a pre-planned route. We had a list of destinations and landmarks 
 
 San Jose → Puerto Viejo → La Fortuna → Monteverde → Quepos → Uvita → Puerto Jimenez → COPROT → Drake's Bay → Jaco → Santa Teresa → Samara → Tamarindo
 
-<img src="/assets/images/costa-rica/map-route.jpg" />
+<img loading="lazy" src="/assets/images/costa-rica/map-route.jpg" />
 *The red points are generally larger towns that we stayed in for longer; the blue are smaller ones that we either visited for a day or only stayed in briefly.*
 
 # San José
@@ -33,7 +33,7 @@ The capital, located in the heart of the country, is unfortunately nothing to ge
 In fact, the most fun we had was away from the center - Barrio Escalante - streets filled with chic restaurants and bars, offering delicious but rather expensive food. 
 
 
-<img src="/assets/images/costa-rica/barrio-escalante-food-1.jpg" /> *Dessert at Franco's* | <img src="/assets/images/costa-rica/barrio-escalante-food-2.jpg" width="1000"/> *Drinks at Saul's Bistro*
+<img loading="lazy" src="/assets/images/costa-rica/barrio-escalante-food-1.jpg" /> *Dessert at Franco's* | <img loading="lazy" src="/assets/images/costa-rica/barrio-escalante-food-2.jpg" width="1000"/> *Drinks at Saul's Bistro*
 
 
 
@@ -45,7 +45,7 @@ In general, we did not have many problems entering the country. The country's GD
 # Puerto Viejo
 This particular town is one of the hotspots on the country's Carribean coast. As a typical beach town with shops and restaurants connected by dirt roads, we came here with two goals: lie on the beach and drink piña coladas. 
 
-<img src="/assets/images/costa-rica/puerto-viejo-beach-close-up.jpg" /> *Cliché Instagram shot, check.* | <img src="/assets/images/costa-rica/puerto-viejo-pina-colada.jpg" width="1020" /> *A typical cocktail here cost around ₡3500 (£4)*
+<img loading="lazy" src="/assets/images/costa-rica/puerto-viejo-beach-close-up.jpg" /> *Cliché Instagram shot, check.* | <img loading="lazy" src="/assets/images/costa-rica/puerto-viejo-pina-colada.jpg" width="1020" /> *A typical cocktail here cost around ₡3500 (£4)*
 
 <br/>
 
@@ -59,14 +59,14 @@ I do recommend you either walk or hire a bicycle to Playa Cocles. This beach is 
 
 Puerto Viejo doesn't offer much beyond its beaches, so we did a day trip to Cahuita National Park. We took the bus there, for about ₡2000 each. The park entrance is a 10 minute walk from the bus terminal. Entrance to the park is free but you are encouraged to pay a donation.
 
-<img src="/assets/images/costa-rica/cahuita-national-park-1.jpg" />
+<img loading="lazy" src="/assets/images/costa-rica/cahuita-national-park-1.jpg" />
 *Despite its small size, Cahuita National Park has a range of spectacular terrains and views*
 
 If you head here on a whim, like we did, you'll probably be arriving without a tour guide. Outside the park entrance you'll most likely be met by a friendly local who will offer you guide services. A couple of things to note: this type of guide will not be official (i.e.: they probably haven't gone through all the certifications required to be officially recognised as a guide in CR) and they may not have equipment with them. Nonetheless, we decided to hire one of these locals, after haggling and reducing the price significantly. If my memory serves me right, they initially wanted ₡50,000; we paid around ₡20,000 plus tips at the end.
 
 We were met by a different man than the one who took our money: a frail yet jovial old man, with a large branch for a walking stick and the unmistakable smell of booze draped around him. He introduced himself as Ronald and he apologised, for he said he had one too many glasses of rum the night before. He explained that he has been a guide for over 30 years, that he grew up in the jungle. 
 
-<img src="/assets/images/costa-rica/cahuita-ronald.jpg" />
+<img loading="lazy" src="/assets/images/costa-rica/cahuita-ronald.jpg" />
 *Ronald, at the end of the guided walk*
 
 Ronald was very polite and eager to share his knowledge; he kept insisting we ask him questions! He told us a lot about the endemic fauna and flora, making a particular point about Costa Rica's rich supply of medicinal plants. Some of his claims about these plants sounded dubious but as a sign of respect we simply nodded along.
@@ -77,14 +77,14 @@ It is important to note that seeing wildlife in these parks is not guaranteed. T
 
 I do recommend you get a guide, official or not, because they *will* the spot the wildlife. They know where and what to look for.
 
-<img src="/assets/images/costa-rica/cahuita-sloth.jpg" />
+<img loading="lazy" src="/assets/images/costa-rica/cahuita-sloth.jpg" />
 *A sleepy two-toed sloth*
 
 The 8km trail will take you through a variety of landscapes. You can take a break at a secluded beach that feels all yours, then head through into the deep jungle where you might get lucky and see some snakes. The trail does have large sections with no tree canopy, so it's recommended you bring some water. We heard from other tourists that park officials may require you to dispose of plastic bottles before entering, so if possible bring a reusable bottle to limit the chances of confiscation. 
 
 
-[<img src="/assets/images/costa-rica/cahuita-eyelash-viper.jpg" />](/assets/images/costa-rica/cahuita-eyelash-viper.jpg) | [<img src="/assets/images/costa-rica/cahuita-hermit-crab.jpg" />](/assets/images/costa-rica/cahuita-hermit-crab.jpg)
-[<img src="/assets/images/costa-rica/cahuita-racoon.jpg" />](/assets/images/costa-rica/cahuita-racoon.jpg) | [<img src="/assets/images/costa-rica/cahuita-crocodiles.jpg" />](/assets/images/costa-rica/cahuita-crocodiles.jpg)
+[<img loading="lazy" src="/assets/images/costa-rica/cahuita-eyelash-viper.jpg" />](/assets/images/costa-rica/cahuita-eyelash-viper.jpg) | [<img loading="lazy" src="/assets/images/costa-rica/cahuita-hermit-crab.jpg" />](/assets/images/costa-rica/cahuita-hermit-crab.jpg)
+[<img loading="lazy" src="/assets/images/costa-rica/cahuita-racoon.jpg" />](/assets/images/costa-rica/cahuita-racoon.jpg) | [<img loading="lazy" src="/assets/images/costa-rica/cahuita-crocodiles.jpg" />](/assets/images/costa-rica/cahuita-crocodiles.jpg)
 
 Cahuita National Park was an early highlight in our trip; I thoroughly recommend you go there if you are already in Puerto Viejo. 
 
@@ -96,7 +96,7 @@ Another local delight is the small town of Manzanillo, south of Puerto Viejo.
 
 The journey there is worth doing by itself. A 1 hour bicycle ride will take you along a smooth paved road that undulates through the otherwise untamed jungle. As the sun's rays pierce the canopy, they also bring to attention the thousands of gigantic spider webs spluttered across the telephone wires. Howler monkeys can be heard wailing in the distance and if you're lucky you might see toucans fly between the trees.
 
-<img src="/assets/images/costa-rica/manzanillo-me.jpg" />
+<img loading="lazy" src="/assets/images/costa-rica/manzanillo-me.jpg" />
 *You can hire a squeaky retro bike like this one for about $7*
 
 The town itself felt very quiet, with most shops and restaurants closed. There is a national park nearby, Refugio Nacional de Vida Silvestre Gandoca, but we were told that due to a recent storm the paths were extremely muddy and hiking was ill-advised.

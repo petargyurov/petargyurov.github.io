@@ -19,7 +19,7 @@ Well, maybe you shouldn't.
 
 # The Green Dot  
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/12/The_Green_Dot.svg"  width="75"/>
+<img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/1/12/The_Green_Dot.svg"  width="75"/>
 
 
 ### What it looks like: 
@@ -32,7 +32,7 @@ People confuse [The Green Dot](https://en.wikipedia.org/wiki/Green_Dot_(symbol))
 
 # MSC Certification
 
-<img src="https://upload.wikimedia.org/wikipedia/en/3/3e/MSC_ecolabel.png"  width="75"/>
+<img loading="lazy" src="https://upload.wikimedia.org/wikipedia/en/3/3e/MSC_ecolabel.png"  width="75"/>
 
 ### What it looks like: 
 > This seafood is guaranteed to be sustainably sourced from an environmentally conscious fishery

@@ -4,7 +4,7 @@ title: 'Backpacking in Cambodia'
 author: 'Petar'
 ---
 
-<img src="/assets/images/costa-rica/cover.jpg" />
+<img loading="lazy" src="/assets/images/costa-rica/cover.jpg" />
 <br/>
 
 ## Siem Reap

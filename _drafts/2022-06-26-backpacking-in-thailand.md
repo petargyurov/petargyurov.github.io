@@ -4,7 +4,7 @@ title: 'Backpacking in Thailand'
 author: 'Petar'
 ---
 
-<img src="/assets/images/costa-rica/cover-2.jpg" />
+<img loading="lazy" src="/assets/images/costa-rica/cover-2.jpg" />
 <br/>
 
 ## Bangkok

@@ -6,14 +6,14 @@ author: 'Petar'
 category: 'Costa Rica'
 ---
 
-<!-- <img src="/assets/images/costa-rica/uvita.jpg" width="500" />
+<!-- <img loading="lazy" src="/assets/images/costa-rica/uvita.jpg" width="500" />
 
-[<img src="/assets/images/costa-rica/uvita.jpg" width="250"/>](/assets/images/costa-rica/uvita.jpg) -->
+[<img loading="lazy" src="/assets/images/costa-rica/uvita.jpg" width="250"/>](/assets/images/costa-rica/uvita.jpg) -->
 
 <!-- á é í ó ú ñ ü    Á É Í Ó Ú Ñ Ü    ¿ ¡ ₡ -->
 
 
-<img src="/assets/images/costa-rica/cover-2.jpg" />
+<img loading="lazy" src="/assets/images/costa-rica/cover-2.jpg" />
 <br/>
 
 During our stay in Monteverde we came across a post on social media about a turtle conservation project based in Carate, a tiny village one or two hours from Puerto Jimenez in the southern tip of the country. We had been interested in turtle consevation for a while so we decided to pull the trigger and go for it; the project was located near Corcovado National Park, which was already on our list so it was a no-brainer.
