@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Quick Tips: Costa Rica 🇨🇷'
+title: 'Quick Tips: Costa Rica'
 author: 'Petar'
 category: 'Costa Rica'
 ---

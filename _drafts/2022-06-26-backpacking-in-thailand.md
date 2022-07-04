@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Backpacking in Thailand'
+title: '🇹🇭 Backpacking in Thailand'
 author: 'Petar'
 ---
 

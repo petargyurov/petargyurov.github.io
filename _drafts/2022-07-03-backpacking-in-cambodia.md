@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Backpacking in Cambodia'
+title: '🇰🇭 Backpacking in Cambodia'
 author: 'Petar'
 ---
 
@@ -69,8 +69,5 @@ I have to admit however that it all somehow felt a bit flat, underwhelming. Ever
 
 This is not to say that we weren't appreciative of the exprience. I don't say this lightly: you must see this place before you die. 
 
-### Pub Street
-
 ## Sihanoukville
 
-...
