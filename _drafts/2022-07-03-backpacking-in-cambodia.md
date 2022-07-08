@@ -69,5 +69,36 @@ I have to admit however that it all somehow felt a bit flat, underwhelming. Ever
 
 This is not to say that we weren't appreciative of the exprience. I don't say this lightly: you must see this place before you die. 
 
-## Sihanoukville
+## Koh Rong
+
+Cambodia is not as beach-heavy as Thailand, but we had read good things about the islands of Rong and Rong Samloem. We had also read, and heard, one too many disparaging antectodes about Sihanoukville so we planned on just skipping that town completely. That meant getting a night bus that drops you off at the Sihanoukville port and then getting a boat to Koh Rong almost immediately.
+
+### The Night(mare) Bus
+
+Pre-COVID the bus schedule was probably a lot richer; we only had the option of a night bus at 20:00 or *luxury* night bus at 20:30. What made it luxury? The presence of a toilet. I wish I was joking. 
+
+Half excited, half terrified at the prospect of beds on a bus, I kept my expectations low and I was still disappointed. The booking website didn't bother to explain that beds are in a bunk, where the lower bunk is basically on the floor, level with the gangway, and has zero lights. You are given a thin slit by the window that only served to make the bunk feel even more like a bunker. But to its credit, there was a power socket on the roof and an AC that couldn't be turned off, so I taped it off, seeing as the millimeter thin blankets didn't do much. At 169cm I just about fit the length of the bed.
+
+In all honesty, the surroundings weren't that much of an issue. What made it uncomfortable was the maniac driver, who must've thought that *luxury* means *rally* and *bus* means *4WD WRC fitted a fuel-injection turbocharged engine with an air intake restrictor*. At times I thought the bus is about to tip over. At times I felt like we've genuinely gone off-road. Though seeing the state of some of roads we must've driven on at a later date, off-road wouldn't be a terrible description.
+
+### The island
+
+This was once a much loved destination for tourists, but the pandemic has ravaged the brittle tourist economy here. As soon as we arrived the place felt dead. *We* felt dead, if I am being honest, having gotten close to zero sleep and then endured a sea-sickness inducing boat ride to the island.
+
+We were somewhat prepared for this. Booking our stay here was painful, because the island only caters to hostel-loving partygoers or those willing to drop a small fortune for a week's stay at a mediocre resort. Nothing in between. We honestly felt pretty ripped off paying $25 a night for a smelly, dirty, damp room. But what we found was the best compromise. A few dollars less will only net you a shared dorm or a shack disguised as a bungalow. Double that price and you'd maybe get an okay resort. 
+
+What I'm saying is that no matter the price, your expecations would not have been met. We genuinely don't ask for much, we don't look for luxury; so long as it's clean and private we'll be happy. I fully understand that these businesses are barely staying alive and keeping the prices high helps these families live. Perhaps it was cheaper pre-pandemic. Perhaps not. I'm aware that islands tend to be more expensive, but having had just spent a month in Thailand, where the quality was much higher and the prices were lower, we couldn't help but feel swindled and unwelcomed. I suspect that countries with less developed tourist-economies need to charge more until development improves, tourist numbers rise, allowing prices to go down. 
+
+The beach itself was decent. The strip at Touch beach is now the most bustling part of the island (according to the locals). A short walk through the frog filled forest along the shoreline took us to Long Set beach where Nest Beach Club was the only nucleus of life around these parts. 
+
+> Those frogs are incredibly loud during the night and they are venomous! 🐸 
+
+We had only booked 2 nights, and I am glad we did that because we weren't really enjoying ourselves. There was little to no atmosphere here and pretty much nothing to do. We questioned whether we're not giving the island a chance, but after discussing it with each other we realised we're not going to feel good staying any longer in that dank room and we wouldn't feel good paying extra for the quality that we saw after shopping around for different accomodation. 
+
+
+It felt good getting off that island, as much as it pains me to say that.
+
+## Kampot
+
+
 

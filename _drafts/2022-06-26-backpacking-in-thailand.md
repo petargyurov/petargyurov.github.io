@@ -14,8 +14,41 @@ After a delayed, long and uncomfortable economy flight, we arrived in Bangkok in
 
 We ordered a Grab (Thailand's Uber) and had a relatively smooth ride to our hotel. As the driver approached the destination, I couldn't help but worry that we had booked something dodgy -- the neighbourhood seemed rough and loud, a concrete overpass looming over the dimly lit streets -- but a left turn followed by a right and a lush jungle revealed itself amidst the grey buildings. The hotel "courtyard" was like a hidden greenhouse, with fairy lights sprinkled amongst the trees, light reflecting off of the meandering koi pond.
 
+## Day 1 Naivety
+
+On our first day, wherever we are, we like to just go walking around. No set itinerary, just wander for a bit, then maybe decide to visit a landmark whilst enjoying a cold drink somewhere.
+
+10 minutes into our walk, a stranger strikes a conversation with us. He looked a bit rough, but was friendly and had a warm smile, so we chatted for a bit. The usual, where we're from, how long we have in Thailand. He then proceeded to tell us how lucky we are that today is the only day that the "big buddah" is open *and* that the government are running a promotion: they'll cover the cost of petrol for tuk-tuks so tourists can enjoy a cheaper trip. This is all delivered to us in somewhat broken English, but we just nodded and thanked him. We didn't want a tuk-tuk just yet, we just wanted to walk. He left us after a while.
+
+Another 5-10 minutes down the road, we're met with another elderly man with a warm smile, who starts giving us the same spiel. This time it even came with a free tourist map! For just ฿50 we can get a tuk-tuk to a number of tourist destinations. Our alarm bells weren't really going off -- this was clearly a scam -- but we were being naive. After all, how exactly would this scam even work? We're just giving them ฿50 to drive us around. I don't know how we didn't realise it, perhaps it did feel a little too good to be true, but we hopped into a tuk tuk with the friendliest and most polite driver we've ever met...
+
+It was still morning and we hadn't had breakfast so we asked if he can first take us somewhere to eat. He showed a smidge of concern but quickly obliged. He took us to some random dingy Thai place that served really unappetising food that we didn't consider breakfast food. Next to it was a tiny coffee stand. We ordered a couple of coffees and just before paying the barista said:
+
+"Can I ask you a question?"
+
+Her face said it all.
+
+"How did you find that tuk-tuk driver?"
+
+At this point it clicked.
+
+"Yeah..." she said slowly, "... that's a scam. The whole story is made up. They will charge you extra for 'tickets' and pressure you into buying souvenirs."
+
+We thanked her and slowly walked across the street to a place that seemed to serve more palatable food. Our driver patiently waiting in his tuk-tuk, smiling at us. We perched on the side of the café, slurping our coffees, wondering what to do. 
+
+We decided to just tell the driver to take us to Khao San road. His smile started to fade away. After some back and forth (he even showed us a fake gasoline top-up voucher), we just said we don't believe this and we don't want to go. Any remnants of his polite manerisms completely gone now. Disgruntled, we all got in the tuk-tuk and he drove us a short distance to Khao San road. We paid him ฿100 and he begrudgingly drove away. We shouldn't have done that -- why bother giving someone like that your money -- at the time it seemed like the best way to diffuse the situation.
+
+## Khao San Road
+
+During the day, this street is much like any other. Perhaps it's a little wider. 
+
+As the sun sets, a transformation begins to take place rendering the street unrecognisable. Lights. Music. Food and alcohol. All in excess quantities. It's a sensory overload, each bar competing for your attention by cranking up their sound systems to 11. 
+
+We walked up and down a few times, taking in the action from different sides each time. Tonnes of people vlogging and streaming their experiences. People enjoying beers on street chairs. Ladies and ladyboys alike trying to convince customers to attend their bar.
+
+We settled for a quieter bar on an alleyway just behind all the action. It was a fun experience.
+
 ## Temple (TODO Write name)
-...
 
 ## Up above and down below
 
