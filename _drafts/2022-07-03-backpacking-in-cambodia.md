@@ -7,7 +7,7 @@ author: 'Petar'
 <img loading="lazy" src="/assets/images/costa-rica/cover.jpg" />
 <br/>
 
-## Siem Reap
+# Siem Reap
 
 At the start of July we flew from Bangkok to Siem Reap. We had already sorted out our 30-day e-visas, making entry pretty smooth, though the lack of tourists certainly helped. We also took a slight risk in not booking an exit flight, something that is stated as a requirement for entry, but evidently it isn't since we didn't get asked for one.
 
@@ -25,14 +25,14 @@ We had booked this Airbnb months before our arrival and were a bit shocked to se
 
 Renting the motorbike was a great decision, since it allowed to explore the temple complex of Angkor in complete freedom...
 
-##### A note on driving in Cambodia
+#### A note on driving in Cambodia
 > Two words: corner cutting.
 >
 > It's diabolical. Whether it's small roads or complex junctions, it's mayhem. Just go slowly and look in every direction. In some ways the chaos sorts itself out, but you are forced to be part of it, forced to cut corners and wiggle between cars. 
 >
 > Another way to grasp the picture: Cambodia has outlawed driving with your lights on during the day, but there is no law requiring lights during the night!
 
-### The Angkor Temple Complex
+## The Angkor Temple Complex
 
 This is probably the first place I have visited in my travels that made the words *"must see before you die"* ring true and loudly.
 
@@ -42,10 +42,10 @@ We rode to the ticket office (which is nowhere near the temples). We weren't sur
 
 A 1-day ticket cost $37, but they had a promotion running that let you use the ticket for 2 days, which was perfect for us.
 
-##### Guide or no guide?
+#### Guide or no guide?
 > We opted to drive ourselves and not hire a guide, mostly because we had a guidebook and we have been somewhat let down by the guides in Thailand. I will admit though that the guides here, that always seem to be swarming you, sounded like they spoke very fluent and relatively sophisticated English. In these struggling times I did feel bad not hiring their services, but through experience I've found that I don't get much out of it. It's nice to learn more, yes, but I prefer the tranquility in exploring and immersing yourself in private. A few paragraphs in a guidebook will never be sufficient in describing the history of any place but it allowed us to strike a nice balance between knowledge and independence.
 
-#### The walled city of Angkor Thom
+### The walled city of Angkor Thom
 
 After a scenic ride along the mostly straight roads, we passed through the South Gate of Angkor Thom, a few turns later arriving at the main entrance of **Bayon**, the temple of faces. Throughout the temple, countless faces emerge from the stonework, protected by an outer wall meticulously decorated with sprawling bas-reliefs depicting important events of ancient Khmer history and culture. Expecting crowds, we were stunned by the lack of people here. The eerie silence along with the hundreds of faces watching down on you resulted in a mind-bending experience. 
 
@@ -55,7 +55,7 @@ Looping back we walked along the **Terrace of the Elephants**, before hopping on
 
 Finally, we rode to **Preah Neak Poan**. One of the smaller but rather unusual temples, in that it is a simple, small tower that sits in an enclave of moats.
 
-#### Angkor Wat
+### Angkor Wat
 
 We arrived around noon, where the plan was to avoid the morning crowds (that come here for the sunrise) and spend the day exploring the temple, popping over to **Ta Prohm** and coming back to Angkor Wat for sunset.
 
@@ -65,11 +65,13 @@ Angkor Wat is indeed huge. What makes Khmer architecture beautiful is its excess
 
 It cannot be overstated how surreal it felt to be there practically alone. We couldn't understand why but I suppose most of the visitors were busy taking pictures in the courtyard outside the main building. To have this ancient wonder of the world all to ourselves was special.
 
+> Side note: whilst climbing the stairs of one of the inner libraries, a green snake **dropped** out of nowhere and "fell with style" down the stairs, much to my confusion.
+
 I have to admit however that it all somehow felt a bit flat, underwhelming. Every piece of literature speaks, if not shouts, about the prowess of the temple -- when you look at the scale, the quality of the carvings, the architectural and logistical undertaking by the thousands of workers/slaves, all taking place in the 12th century -- then it's easy to understand why this site is considered monumental. So to explain the cognitive dissonance here, I think it's because of something counter-intuitive: restoration and conservation. Though the other temples in the complex have recieved some attention, they look and feel much older (and some are in fact older). Some, like Ta Prohm, have been engulfed by the jungle, giving them the romanticised look of ancient ruins that I expected. To put it simply, Angkor Wat has been preserved and restored so well that it takes a departure from common expecations, or at least, my own.
 
 This is not to say that we weren't appreciative of the exprience. I don't say this lightly: you must see this place before you die. 
 
-## Koh Rong
+# Koh Rong
 
 Cambodia is not as beach-heavy as Thailand, but we had read good things about the islands of Rong and Rong Samloem. We had also read, and heard, one too many disparaging antectodes about Sihanoukville so we planned on just skipping that town completely. That meant getting a night bus that drops you off at the Sihanoukville port and then getting a boat to Koh Rong almost immediately.
 
@@ -98,7 +100,20 @@ We had only booked 2 nights, and I am glad we did that because we weren't really
 
 It felt good getting off that island, as much as it pains me to say that.
 
-## Kampot
+# Kampot
 
+Buses to Kampot on the regular ticket websites were not be found, so we had to pay extra for a shuttle. At $12.50 it wasn't the worst deal in the world. Despite leaving 30 minutes earlier than scheduled, we arrived in Kampot in the late afternoon because the driver seemed to be doing half the town's delivery chores.
 
+Kampot was nice. It was to Phnom Penh what Chiang Mai is to Bangkok; a smaller, quieter town with a charm that you can't quite put your finger on. Likely it's the old French colonial buildings that are left on one side of the river, now hosting a small collection of restaurants and bars.
 
+One thing that stood out here was the rather large and unexpected community of elderly Americans. Primarly single men; at least I assume they were single as they were always by themselves at the bars and restaurants. I think there exist some unfavourable connotations with this... scenario, which I won't go into, but I will say that a pretty large drunk man that fit the above description crashed his bike right next to us whilst we were having dinner. He was okay.
+
+I expected a few more markets in Kampot and a few more things to do. The river boats are a nice option at night, but once again I think the town was marred by the slow post-pandemic recovery and generally low season.
+
+## Bokor National Park
+
+We did enjoy renting a bike here and driving around the Bokor National Park. It's a lovely ride up to the view point(s), the road twisting left and right with a gentle upwards slope. On the way we saw numerous packs of monkeys, with some pretty large individuals strolling across the road. We also saw an enormous Great Hornbill flying over in the distance whilst admiring the view of the first viewpoint.
+
+The roads there took us through a number of abandoned buildings which were made eerier by the frequent fog rolling over the hills. We came across a giant *abandoned-looking* but very much alive hotel, the Thansur Sokha. We needed to use the toilet so we took that as an opportunity to go inside: it was very grand! Quite strange to find it amongst so many desolate and forgotten projects.
+
+## La Plantation Pepper Farm
