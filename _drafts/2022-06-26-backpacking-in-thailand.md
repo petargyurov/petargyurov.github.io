@@ -148,6 +148,18 @@ Having the freedom to explore the island on our motorbikes, we went to do some s
 
 The water here was incredible. This was the first coral reef that I have seen in such vivid, true to life colours, thanks to the shallow water. There was an entire rainbow of fish swimming around you at all times, probably used to the human shape, unafraid to get close. My partner even saw a large black tip reef shark on our second visit.
 
+## Best dinner on the whole island?
+
+Panning around Google Maps in search for things to do, we came across Sun Moon Thai Restaurant and decided to check it out. It's literally one lady's home set in the hills of the island, overlooking the eastern shoreline. It was beautiful. 
+
+<img loading="lazy" src="/assets/images/thailand/koh-tao-dinner.jpg" /> *And we had the whole place to ourselves*
+
+There is no menu. The owner, Thay, will cook whatever you want. There's something wonderful it that simplicity. The food she cooked for us was delicious and bountiful -- she said she won't stop cooking until we say so -- but we got plenty full on the first couple of dishes she made for us.
+
+She also showed us her mushroom farm. It was fascinating; her yield was apparently a few kilos a day! She had lots of stories, of how she learned to cook when she just a young girl, going into restaurants and asking to just watch.
+
+<img loading="lazy" src="/assets/images/thailand/koh-tao-sun-moon.jpg" /> | <img loading="lazy" src="/assets/images/thailand/koh-tao-diving.jpg" /> 
+
 # Khao Sok
 
 We had heard that Khao Sok National Park is a must see and were surprised that we could organise transport from Koh Tao to it. That involved getting on a sleeper ferry. At first it was hilarious: 50 odd tourists packed shoulder to shoulder like sardines wrapped in tiger blankets. But once the lights went out and people started nodding off... to the Spanish dude that slept next to me and didn't stop snoring, you owe me a night's sleep 😒
