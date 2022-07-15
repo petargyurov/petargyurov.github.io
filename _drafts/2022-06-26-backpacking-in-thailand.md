@@ -166,11 +166,17 @@ We had heard that Khao Sok National Park is a must see and were surprised that w
 
 I am dubbing the bungalow we stayed in here as Cockroach Casa. I must've dealt with half a dozen cockroaches, some of them of formidable size. Pretty gross, but other than that it was actually not too bad of a place. 
 
+<img loading="lazy" src="/assets/images/thailand/khao-sok-gas-station.jpg" /> *A local gas station bearing some post-apocalyptic vibes*
+
 The national park was honestly nothing exceptional. The boat takes you through the (artificial) lake, slowing down past some interesting looking rock formations. Every picture you've ever seen from this park was probably taken in this one little cove. We didn't have exceptionally sunny weather which certainly undermined the blues of the water and the greens of the cliffs. Nonetheless, the boat journey is rather boring, taking about 1 hr 30 mins, all of it enjoyed with the grating sound of the boat engine throughout.
+
+<img loading="lazy" src="/assets/images/thailand/khao-sok-park.jpg" /> 
 
 Things did pick up once we arrived at the lake house. We got there earlier than other groups, allowing us to take one of a limited number of kayaks and paddle around for a bit. We also enjoyed swimming in the lake and jumping off the pier until the food was ready. As we were eating, other groups started arriving; completely drenched as it had been raining heavily over the lake.
 
 After lunch we hopped on the boat for another 20 minute journey to the start of the hike. It was wet, muddy and a lot of fun! Everyone attempted to avoid the mud but after a while we just gave up and slid directly through it. It was also the first encounter we've had with *leeches*! They really do suck hard and their squidgy bodies make it hard to remove them. 
+
+<img loading="lazy" src="/assets/images/thailand/khao-sok-hike.jpg" /> 
 
 Eventually we arrived at a cave entrance: this cave is almost a kilometer long, but after the incident with the Thai boys that got stuck in some other cave, we were only allowed to travel a short distance into it. This only applied during the wet season. The cave was full of water, so we had to wade and swim through it. It was freezing and dark, our headlamps illuminating the bare minimum. Sharp rocks jutted out the water. Frogs croaked quietly in their crevices. We arrived at a clearing: the home of a whip spider. Our guide picked it up and casually placed it on his body, letting it crawl around, losing it in the process.
 
@@ -184,17 +190,29 @@ Situated in northern Thailand, Chiang Mai was the last and probably one of our f
 
 On our first day here we rented a motorbike and rode to a local hiking route, the Monk's Trail. It was a really pleasant walk with a gentle elevation which takes you to a small temple and meditation spot, with a quiet waterfall running through the middle of it all. We didn't expect to see so much from such a small trail.
 
-**<< PICS >>**
+<img loading="lazy" src="/assets/images/thailand/chiang-mai-monks-trail-3.jpg" /> 
+
+<img loading="lazy" src="/assets/images/thailand/chiang-mai-monks-trail-1.jpg" /> | <img loading="lazy" src="/assets/images/thailand/chiang-mai-monks-trail-2.jpg" /> 
 
 On our second day we still had our trusty 110cc Honda Scoopy -- in hotrod red -- we rode 45 mins to another hiking trail, Mon Jing, in the mountain of Nang Mo. Despite only taking you to an elevation of 850m, this trail was hard. Not the hardest thing I've done my any means, but the gravelly terrain paired with the scorching temperature made it intensive. Oh and did I mention the thousands of gigantic spiders? And snakes? Ok, we only saw one snake and it quickly slithered away into hiding but still... The orb weavers were actually everywhere, including in the middle of the path, so whilst you were constantly watching where you were stepping due to the horrible terrain you also had to look up every now and then to ensure that you don't walk face first into one of those monsters.
 
-**<< PICS >>**
+<img loading="lazy" src="/assets/images/thailand/chiang-mai-hike-2.jpg" /> 
+
+<img loading="lazy" src="/assets/images/thailand/chiang-mai-hike-1.jpg" /> | <img loading="lazy" src="/assets/images/thailand/chiang-mai-hike-3.jpg" />  
 
 ### Doi Inthanon
 
+<img loading="lazy" src="/assets/images/thailand/chiang-mai-doi-inthanon-1.jpg" /> 
+
 One of the last things we did in Thailand was visit Doi Inthanon, the highest point in Thailand, which hosts two relatively recent chedis and a beautiful flower garden. It gets somewhat chilly at the top, about 16°C when we were there, which amusingly the locals find really cold! Interestingly, it's also the only place in the country which gets cold enough for some morning frost to form on the vegetation -- the closest thing to snow here -- most Thais have never seen snow.
 
+<img loading="lazy" src="/assets/images/thailand/chiang-mai-doi-inthanon-2.jpg" /> | <img loading="lazy" src="/assets/images/thailand/chiang-mai-doi-inthanon-3.jpg" /> 
+
 On the way to the chedis we stopped by Wachirathan waterfall: one of the more impressive waterfalls we've seen here. After wandering around the temple the tour proceeded to a small market where we bought some dried fruit and wasabi nuts to snack on. We also tasted some lychee wine and banana whiskey: not bad! We had a delicious lunch as part of the tour, and finally proceeded to a short hike through the forest, which eventually lead to some beatiful rice paddies. The hike ended in a local village known for its coffee production. We got to taste lots of different coffees and teas; the villagers kindly explained to us their history in coffee making and how they are eager to share their methods with anyone who wants to learn. We bought a scarf from them as a small token of appreciation and support.
+
+<img loading="lazy" src="/assets/images/thailand/chiang-mai-wachirathan.jpg" /> 
+
+<img loading="lazy" src="/assets/images/thailand/chiang-mai-rice-fields.jpg" /> 
 
 --
 
