@@ -7,7 +7,7 @@ author: Petar
 
 I recently got access to DALLE-2 and have been having a blast with it. There's been an explosion of [information and guides](https://dallery.gallery/) on how to construct good prompts for it. In some instances it appears to be almost formulaic -- this got me thinking -- can I teach GPT-3 to come up with funky prompts? 
 
-I've got no idea how to construct good GPT-3 prompts, so if you want to [skip to end](#attempt-10), go ahead. Otherwise let's just get into it and see what this gives us:
+I've got no idea how to construct good GPT-3 prompts, so if you want to [skip to end](#attempt-10), go ahead. Otherwise let's just get into it and see what this gives us: 
 
 #### Attempt 1: `Write a creative DALLE2 prompt`
 
