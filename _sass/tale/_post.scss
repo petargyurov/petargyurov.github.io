@@ -3,7 +3,7 @@
 
   &-info {
     color: $default-tint;
-    font-family: $serif-secondary;
+    font-family: $monospaced;
     letter-spacing: 0.5px;
     text-align: center;
 
@@ -51,7 +51,7 @@
   img + em {
     color: $default-tint;
     display: block;
-    font-family: $sans-serif;
+    font-family: $monospaced;
     font-size: 0.9rem;
     font-style: normal;
     text-align: center;
