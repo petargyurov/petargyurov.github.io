@@ -64,15 +64,15 @@ Kind of getting there, but it's not very inventive. After about 10 more variatio
 
 That's more like it! Let's give it to DALLE. (I will remove the "This is" portion of the prompt)
 
-<img loading="lazy" src="/assets/images/gpt-dalle/attempt4/woman1.png" /> | <img loading="lazy" src="/assets/images/gpt-dalle/attempt4/woman2.png" /> 
-<img loading="lazy" src="/assets/images/gpt-dalle/attempt4/woman3.png" /> | <img loading="lazy" src="/assets/images/gpt-dalle/attempt4/woman4.png" /> 
+<img src="/assets/images/gpt-dalle-examples/attempt4/woman1.png" /> | <img src="/assets/images/gpt-dalle-examples/attempt4/woman2.png" /> 
+<img src="/assets/images/gpt-dalle-examples/attempt4/woman3.png" /> | <img src="/assets/images/gpt-dalle-examples/attempt4/woman4.png" /> 
 
 Let's generate another prompt: 
 
 > This painting depicts a beautiful summer day at the beach. The sun is shining and the waves are crashing onto the shore. The colors are very bright and vibrant. The subject is framed by the beach umbrellas and the palm trees. The medium is oil on canvas.
 
-<img loading="lazy" src="/assets/images/gpt-dalle/attempt4/beach1.png" /> | <img loading="lazy" src="/assets/images/gpt-dalle/attempt4/beach2.png" /> 
-<img loading="lazy" src="/assets/images/gpt-dalle/attempt4/beach3.png" /> | <img loading="lazy" src="/assets/images/gpt-dalle/attempt4/beach4.png" /> 
+<img src="/assets/images/gpt-dalle-examples/attempt4/beach1.png" /> | <img src="/assets/images/gpt-dalle-examples/attempt4/beach2.png" /> 
+<img src="/assets/images/gpt-dalle-examples/attempt4/beach3.png" /> | <img src="/assets/images/gpt-dalle-examples/attempt4/beach4.png" /> 
 
 It completely forgot to specify the subject this time. I suppose there doesn't have to be one. It also chose to use the same description for the colours/vibe. 
 
@@ -112,7 +112,7 @@ Let's try to fix that.
 
 This time it gave me 3 outputs for the price of one, presumably because of the substitution instruction, though it did skip the painting for some reason. We've _kiiiiind_ of escaped the "woman loop". 
 
-<img loading="lazy" src="/assets/images/gpt-dalle/attempt7/city.png" /> | <img loading="lazy" src="/assets/images/gpt-dalle/attempt7/man.png" /> 
+<img src="/assets/images/gpt-dalle-examples/attempt7/city.png" /> | <img src="/assets/images/gpt-dalle-examples/attempt7/man.png" /> 
 
 Let's keep trying.
 
@@ -122,7 +122,7 @@ Let's keep trying.
 
 > It's a painting, in the impressionist style. The scene is of a park in the early morning, with the sun just starting to peek over the trees. The light is soft and diffused, and the colors are muted. The grass is still damp with dew, and there are a few people walking around, enjoying the peace and quiet of the morning.
 
-<img loading="lazy" src="/assets/images/gpt-dalle/attempt8/park.png" />
+<img src="/assets/images/gpt-dalle-examples/attempt8/park.png" />
 
 And once more:
 
@@ -148,7 +148,7 @@ AAAAAAH! STOP! 🤬
 > 
 > The film type is 35mm and the lens is a 50mm.
 
-<img loading="lazy" src="/assets/images/gpt-dalle/attempt10/man.png" />
+<img src="/assets/images/gpt-dalle-examples/attempt10/man.png" />
 
 Well, if it's stupid and it works... You know, at this point it doesn't feel like it's headed in the right direction any more. Even if we escape the "woman loop", we still aren't producing enough creative variations. Let's revisit what we tried in Attempt 3 but change up the description parameter.
 
@@ -168,23 +168,23 @@ Well, if it's stupid and it works... You know, at this point it doesn't feel lik
 
 > A 3D Render of a small girl in the style of Banksy, from a Low Angle perspective. The girl is drawn in black and white with a few strategic color splashes. She's standing in front of a dark background, with a single light source coming from the top left. The mood is playful and mischievous, with a hint of danger.
 
-<img loading="lazy" src="/assets/images/gpt-dalle/attempt11/banksy_girl.png" />
+<img src="/assets/images/gpt-dalle-examples/attempt11/banksy_girl.png" />
 
 You know, that's pretty good! Another one:
 
 > A Photograph of a Girl in a Blue Dress, In the Distance. The girl is standing in a field of tall grass with a light breeze blowing her dress around her. The sun is setting in the background, casting a golden glow on everything.
 
-<img loading="lazy" src="/assets/images/gpt-dalle/attempt11/woman_field.png" />
+<img src="/assets/images/gpt-dalle-examples/attempt11/woman_field.png" />
 
 Noooooooooo, please god no! Hit it again!
 
 > A painting of a sunset in the style of realism, wide angle. You can see the sun beginning to dip below the horizon, and the sky is a beautiful orange. The lighting is very warm, and the mood is peaceful.
 
-<img loading="lazy" src="/assets/images/gpt-dalle/attempt11/sunset.png" />
+<img src="/assets/images/gpt-dalle-examples/attempt11/sunset.png" />
 
 > A photograph of a rose in the style of Impressionism, 85Mm. The rose is in a garden with ivy crawling up a white picket fence in the background. The lighting is bright and the mood is cheerful.
 
-<img loading="lazy" src="/assets/images/gpt-dalle/attempt11/rose.png" />
+<img src="/assets/images/gpt-dalle-examples/attempt11/rose.png" />
 
 Well, that's not so bad. But it's not great either. New generations are at least somewhat varied. 
 
@@ -194,7 +194,7 @@ It's now 00:30 and I don't have the energy to create better prompts for my promp
 
 And with my last few DALLE-2 credits, I leave you with...
 
-<img loading="lazy" src="/assets/images/gpt-dalle/lamas1.png" />
+<img src="/assets/images/gpt-dalle-examples/lamas1.png" />
 *This took 5 attempts and I'm not even happy with it!*
 
-<img loading="lazy" src="/assets/images/gpt-dalle/lamas2.png" /> | <img loading="lazy" src="/assets/images/gpt-dalle/lamas3.png" />
+<img src="/assets/images/gpt-dalle-examples/lamas2.png" /> | <img src="/assets/images/gpt-dalle-examples/lamas3.png" />
