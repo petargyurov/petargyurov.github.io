@@ -41,15 +41,17 @@ a {
 }
 
 blockquote {
-  font-style: italic;
-  background-color: #fcf4d1;
-  border-left: .25rem solid gold;
+  border-left: .25rem solid $grey-2;
   color: $grey-1;
   margin: .8rem 0;
-  padding: 18px;
+  padding: .5rem 1rem;
 
   p:last-child {
     margin-bottom: 0;
+  }
+
+  @media (min-width: 600px) {
+    padding: 0 5rem 0 1.25rem;
   }
 }
 
