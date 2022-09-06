@@ -34,6 +34,14 @@
     margin: 0.5rem 0;
   }
 
+  &-subtitle {
+    color: $default-tint;
+    display: block;
+    font-family: $sans-serif;
+    font-weight: 700;
+    margin: 0.5rem 0;
+  }
+
   &-line {
     @include transition(all 0.3s ease-out);
     border-top: 0.2rem solid $default-shade;

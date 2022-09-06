@@ -23,8 +23,8 @@ layout: default
       <div>
         <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%B %d, %Y" }}</time>
         {% if post.subtitle %}
-          <h2 class="catalogue-title">{{ post.title }} ⊷ {{post.subtitle}}</h2>
-          
+          <h2 class="catalogue-title">{{ post.title }}</h2>
+          <h3 class="catalogue-subtitle">{{post.subtitle}}</h3>
         {% else %}
           <h2 class="catalogue-title">{{ post.title }}</h2>
         {% endif %}
