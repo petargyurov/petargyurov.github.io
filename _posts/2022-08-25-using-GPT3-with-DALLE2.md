@@ -26,11 +26,17 @@ I came across [a website](https://dallery.gallery/) which specified a bunch of u
 
 Let's use them to create this instruction:
 
-`Create 5 varied DALL•E prompts that use different styles and formats as well as a variety of scenery detail information and objects. Use the following template:`
+```
+Create 5 varied DALL•E prompts that use different styles and formats as well 
+as a variety of scenery detail information and objects. Use the following 
+template:
 
-`A [format] of [description] in the style of [style], [perspective]. `
+A [format] of [description] in the style of [style], [perspective].
+You need to replace the parameters in the brackets. Use the lists to choose 
+from for each one. The description parameter needs to specify an object or 
+subject performing an action, in some sort of scenery.
+```
 
-`You need to replace the parameters in the brackets. Use the lists to choose from for each one. The description parameter needs to specify an object or subject performing an action, in some sort of scenery.`
 
 > 1. A 3D Render of a cityscape in the style of Cyberpunk, Long Shot.
 > 2. A Book Cover of a woman in the style of Art Nouveau, Close Up.
@@ -42,7 +48,11 @@ Kind of getting there, but it's not very inventive. After about 10 more variatio
 
 ### Attempt 4
 
-`Come up with a brand new description of a painting or photograph, specifying the art style, the atmosphere, the framing of the subject, the lighting and the medium. Describe the subject.`
+```
+Come up with a brand new description of a painting or photograph, 
+specifying the art style, the atmosphere, the framing of the subject, 
+the lighting and the medium. Describe the subject.
+```
 
 > This is a painting of a young woman in a white dress. She is standing in a garden, surrounded by flowers. The light is shining on her from the left, and she is looking towards the right. The painting is in a realistic style, and the colors are very bright.
 
@@ -62,7 +72,11 @@ At this point I noticed a mistake in my prompt. I've asked it for a painting or 
 
 ### Attempt 5
 
-`Come up with an original description of a painting or photograph, specifying the subject, what they're doing, the atmosphere, the surroundings, the framing of the subject and the lighting`
+```
+Come up with an original description of a painting or photograph, specifying 
+the subject, what they're doing, the atmosphere, the surroundings, the 
+framing of the subject and the lighting
+```
 
 > In this painting, a young woman is standing in a sun-drenched field of wildflowers. She is wearing a flowing white dress and has a bright red scarf tied around her waist. The woman's hair is blowing in the breeze and she has a serene look on her face. The painting has a warm, sunny feeling and the woman looks like she is in a state of bliss.
 
@@ -70,7 +84,14 @@ What's with the women GPT-3? 🤨 I regenerated the output 3 more times and it w
 
 ### Attempt 6
 
-`Come up with an original description of a scene, specifying the subject, what they're doing, the atmosphere, the surroundings. Decide whether this is a painting, a photograph or a 3D render.  Describe the framing of the subject and the lighting. If it's a painting decide the medium.`
+```
+Come up with an original description of a scene, specifying the subject, 
+what they're doing, the atmosphere, the surroundings. Decide whether 
+this is a painting, a photograph or a 3D render.  
+
+Describe the framing of the subject and the lighting. If it's a painting 
+decide the medium.
+```
 
 > The subject is a young woman, standing in a forest clearing. She is looking up at the sky, with a sad expression on her face. The atmosphere is one of melancholy and longing. The forest is dark and shadowy, and the sunlight is filtering through the trees. The woman is framed by the trees, and the light is shining on her face. This is a painting, done in oils.
 
@@ -84,7 +105,14 @@ Let's try to fix that.
 
 ### Attempt 7
 
-`Come up with an original description of a [medium], specifying the subject, what they're doing, the atmosphere, the surroundings and the lighting. Replace [medium] with one of: photograph, painting, 3d render, sketch. If it's a photograph specify the film type and the lens. If it's a painting specify the style.`
+```
+Come up with an original description of a [medium], specifying the subject, 
+what they're doing, the atmosphere, the surroundings and the lighting. 
+
+Replace [medium] with one of: photograph, painting, 3d render, sketch. 
+If it's a photograph specify the film type and the lens. If it's a painting 
+specify the style.
+```
 
 > It's a photograph of a young woman, she's sitting on a bench in a park and she's looking at the camera with a smile. The light is soft and there's a bit of a breeze.
 >
@@ -100,7 +128,14 @@ Let's keep trying.
 
 ### Attempt 8
 
-`Come up with an original description of a scene, specifying the atmosphere, the surroundings and the lighting. Optionally specify a subject and tell me what they're doing. Tell me if this is a photograph, a painting, a 3d render or a sketch. If it's a photograph specify the film type and the lens. If it's a painting specify the style.`
+```
+Come up with an original description of a scene, specifying the 
+atmosphere, the surroundings and the lighting. Optionally specify 
+a subject and tell me what they're doing. Tell me if this is a 
+photograph, a painting, a 3d render or a sketch. If it's a 
+photograph specify the film type and the lens. If it's a painting 
+specify the style.
+```
 
 > It's a painting, in the impressionist style. The scene is of a park in the early morning, with the sun just starting to peek over the trees. The light is soft and diffused, and the colors are muted. The grass is still damp with dew, and there are a few people walking around, enjoying the peace and quiet of the morning.
 
@@ -116,7 +151,11 @@ Let's take some steps back. I'll limit it to just photographs since I'm noticing
 
 ### Attempt 9
 
-`Come up with an original description of a photograph specifying the subject and what they're doing, the atmosphere, the surroundings and the lighting. Specify the film type and the lens.`
+```
+Come up with an original description of a photograph specifying the
+subject and what they're doing, the atmosphere, the surroundings and 
+the lighting. Specify the film type and the lens.
+```
 
 > In this photograph, the subject is a young woman standing in the middle of a road. She is looking to the left, away from the camera. The road is empty and there are trees on either side. The lighting is natural and the film type is color. The lens is a wide-angle lens.
 
@@ -136,17 +175,22 @@ Well, if it's stupid and it works... You know, at this point it doesn't feel lik
 
 ### Final attempt...?
 
-`Write a sentence using the following template:`
+```
+Write a sentence using the following template:`
 
-`A [format] of [scene] in the style of [style], [perspective]. You need to replace the parameters in the brackets. Use the following lists to choose from for each one:`
+A [format] of [scene] in the style of [style], [perspective]. You 
+need to replace the parameters in the brackets. Use the following 
+lists to choose from for each one:
 
-`format: ...`
+format: ...
 
-`style: ...`
+style: ...
 
-`perspective: ...`
+perspective: ...
 
-`The scene parameter needs to specify an object or subject performing an action. Describe the scenery. Describe the mood and the lighting.`
+The scene parameter needs to specify an object or subject performing 
+an action. Describe the scenery. Describe the mood and the lighting.
+```
 
 > A 3D Render of a small girl in the style of Banksy, from a Low Angle perspective. The girl is drawn in black and white with a few strategic color splashes. She's standing in front of a dark background, with a single light source coming from the top left. The mood is playful and mischievous, with a hint of danger.
 

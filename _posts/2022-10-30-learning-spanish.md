@@ -8,7 +8,7 @@ Since the first time I started learning Spanish in school, 15 years ago, I have 
 
 I am now on my 1000th attempt of trying to master Spanish and so far it's proving to be my most dedicated run. It still has its ups and downs but I think I've learnt some things about *learning*.
 
-## Don't separate reading, writing, listening and speaking
+<!-- ### Don't separate reading, writing, listening and speaking -->
 
 When you first start learning a new language, you are likely to focus most on writing and reading. If I can't even read or write yet, what's the point of trying to listen and talk?
 
@@ -22,9 +22,8 @@ Listening and speaking is just so different. It's as if those neural connections
 
 This is what I refer to as buffering. It's awful and frustrating. It gets better, but only if you practice it. So don't ignore speaking and listening early on; start earlier than you think you have to.
 
-## Duolingo will only take you so far
 
-At the time of writing I am on Unit 78 out of 211, or just a mere 37% of the way through the entire Duolingo course. I've been at it for a number of years, starting, stopping, killing my 300-something day streak, restarting, and so on and so on. 
+On top of that, learn from different resources; Duolingo will only take you so far. At the time of writing I am on Unit 78 out of 211, or just a mere 37% of the way through the entire Duolingo course. I've been at it for a number of years, starting, stopping, killing my 300-something day streak, restarting, and so on and so on. 
 
 <img src="/assets/images/spanish/duolingo-streak.png"/> *Last month's "streak". The blue dates indicate that I missed practice for that day but Duo saved my streak*
 
