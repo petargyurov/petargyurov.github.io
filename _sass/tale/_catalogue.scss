@@ -1,6 +1,6 @@
 .catalogue {
   &-item {
-    border-bottom: 1px solid $grey-2;
+    border-bottom: 2px solid $accent-color-dark;
     color: $default-color;
     display: block;
     padding: 1rem 0;
@@ -15,6 +15,11 @@
       border-color: $accent-color;
     }
 
+    &:hover .catalogue-title,
+    &:focus .catalogue-title {
+      color: $code-color;
+    }
+
     &:last-child {
       border: 0;
     }
@@ -27,6 +32,7 @@
   }
 
   &-title {
+    @include transition(all 0.3s ease-out);
     color: $default-shade;
     display: block;
     font-family: $sans-serif;

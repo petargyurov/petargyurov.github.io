@@ -6,6 +6,7 @@
 html,
 body {
   color: $default-color;
+  background-color: $default-dark;
   margin: 0;
   padding: 0;
 }
@@ -16,7 +17,7 @@ html {
   overflow-y: scroll;
 
   @media (min-width: 600px) {
-    font-size: 16px;
+    font-size: 15px;
   }
 }
 
@@ -42,9 +43,9 @@ a {
 
 blockquote {
   font-style: italic;
-  background-color: #fcf4d1;
-  border-left: .25rem solid gold;
-  color: $grey-1;
+  background-color: $blockquote-background;
+  border-left: .25rem solid $blockquote-border;
+  color: $blockquote-text;
   margin: .8rem 0;
   padding: 18px;
 

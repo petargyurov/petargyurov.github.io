@@ -1,6 +1,6 @@
 // Colors
-$default-color: #555;
-$default-shade: #353535;
+$default-color: #aaa;
+$default-shade: #cecece;
 $default-tint: #aaa;
 $grey-1: #979797;
 $grey-2: #e5e5e5;
@@ -8,8 +8,19 @@ $grey-3: #f9f9f9;
 $white: #fff;
 $blue: #4a9ae1;
 $shadow-color: rgba(0, 0, 0, .2);
+
+$code-background: #0a070a;
 $code-color: #bf616a;
-$accent-color: #c20000;
+
+$blockquote-background: #2b252b;
+$blockquote-border: #aaa;
+$blockquote-text: #aaa;
+
+$accent-color: #bf616a;
+$accent-color-dark: #492431;
+
+// Dark mode
+$default-dark: #191519;
 
 // Fonts
 $serif-primary: 'Libre Baskerville', 'Times New Roman', Times, serif;
