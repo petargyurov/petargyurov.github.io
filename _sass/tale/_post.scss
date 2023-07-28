@@ -48,6 +48,10 @@
     margin: 0 auto 0.5rem;
   }
 
+  td > img {
+    margin: 0 auto 0;
+  }
+
   img + em {
     color: $default-tint;
     display: block;
@@ -82,4 +86,8 @@
   &-newsletter p {
     text-align: center;
   }
+}
+
+em {
+  margin-top: 0.5rem;
 }

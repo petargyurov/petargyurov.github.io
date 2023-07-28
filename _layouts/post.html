@@ -4,9 +4,16 @@ layout: default
 
 <div class="post">
   <div class="post-info">
-    <span>Published on</span>
     {% if page.date %}
-      <span datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</span>
+    <span>Published on</span>
+    <span datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</span>
+    {% endif %} {% if page.updated %}
+    <div>
+      <span>Updated on</span>
+      <span datetime="{{ page.updated }}"
+        >{{ page.updated | date: "%B %d, %Y" }}</span
+      >
+    </div>
     {% endif %}
   </div>
 
@@ -20,15 +27,11 @@ layout: default
 <div class="pagination">
   {% if page.previous.url %}
   <a href="{{ page.previous.url | prepend: site.baseurl }}" class="left arrow">
-    &#8592;
-    Prev
+    &#8592; Prev
   </a>
-  {% endif %} 
-  
-  {% if page.next.url %}
+  {% endif %} {% if page.next.url %}
   <a href="{{ page.next.url | prepend: site.baseurl }}" class="right arrow">
-    Next
-    &#8594;
+    Next &#8594;
   </a>
   {% endif %}
   <a href="#" class="top-button">Top</a>
