@@ -44,9 +44,9 @@ a {
 blockquote {
   font-style: italic;
   background-color: $blockquote-background;
-  border-left: .25rem solid $blockquote-border;
+  border-left: 0.25rem solid $blockquote-border;
   color: $blockquote-text;
-  margin: .8rem 0;
+  margin: 0.8rem 0;
   padding: 18px;
 
   p:last-child {
@@ -69,4 +69,8 @@ td {
   text-align: center;
   margin-top: 6px;
   margin-bottom: 6px;
+}
+
+footer span {
+  margin-right: 10px;
 }
