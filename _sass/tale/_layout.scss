@@ -24,15 +24,15 @@ footer,
   }
 
   &-title {
-    @include transition(all .2s ease-out);
+    @include transition(all 0.2s ease-out);
     color: $default-color;
     display: inline-block;
     margin: 0;
-    padding-right: .2rem;
+    padding-right: 0.2rem;
 
     &:hover,
     &:focus {
-      opacity: .6;
+      opacity: 0.6;
     }
   }
 
@@ -44,10 +44,10 @@ footer,
   }
 
   li {
-    @include transition(all .2s ease-out);
+    @include transition(all 0.2s ease-out);
     color: $default-color;
     display: inline-block;
-    opacity: .6;
+    opacity: 0.6;
     padding: 0 2rem 0 0;
 
     &:last-child {
@@ -62,7 +62,7 @@ footer,
 
   a {
     color: $default-color;
-    font-family: $monospaced;
+    font-family: $sans-serif;
   }
 }
 
@@ -81,13 +81,13 @@ footer,
 }
 
 footer {
-  font-family: $monospaced;
+  font-family: $sans-serif;
   padding: 2rem 0;
   text-align: center;
 
   span {
     color: $accent-color;
-    opacity: .6;
-    font-size: .8rem;
+    opacity: 0.6;
+    font-size: 0.8rem;
   }
 }
