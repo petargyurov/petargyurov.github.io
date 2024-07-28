@@ -4,6 +4,7 @@
       <h2 class="nav-title">{{ site.title }}</h2>
     </a>
     <ul>
+      <li><button id="dark-mode-toggle">Toggle Dark Mode</button></li>
       <li><a href="{{ '/about' | prepend: site.baseurl }}">About</a></li>
       <li>
         <a href="{{ '/photography' | prepend: site.baseurl }}">Photography</a>
@@ -14,3 +15,28 @@
     </ul>
   </div>
 </nav>
+
+<script>
+  document.addEventListener("DOMContentLoaded", (event) => {
+    const toggleButton = document.getElementById("dark-mode-toggle");
+    const body = document.body;
+
+    // Check for saved user preference and apply it
+    if (localStorage.getItem("dark-mode") === "enabled") {
+      body.classList.add("dark-mode");
+    }
+
+    // Add event listener for the toggle button
+    toggleButton.addEventListener("click", () => {
+      console.log(123);
+      body.classList.toggle("dark-mode");
+
+      // Save the user's preference
+      if (body.classList.contains("dark-mode")) {
+        localStorage.setItem("dark-mode", "enabled");
+      } else {
+        localStorage.removeItem("dark-mode");
+      }
+    });
+  });
+</script>

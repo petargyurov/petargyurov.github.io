@@ -5,10 +5,15 @@
 
 html,
 body {
-  color: $default-color;
-  background-color: $default-dark;
   margin: 0;
   padding: 0;
+  color: $light-text-color;
+  background-color: $light-background-color;
+
+  &.dark-mode {
+    color: $dark-text-color;
+    background-color: $dark-background-color;
+  }
 }
 
 html {
@@ -31,9 +36,13 @@ h3,
 h4,
 h5,
 h6 {
-  color: $default-shade;
+  color: $light-shade;
   font-family: $sans-serif;
   line-height: normal;
+
+  .dark-mode & {
+    color: $dark-shade;
+  }
 }
 
 a {
@@ -43,14 +52,20 @@ a {
 
 blockquote {
   font-style: italic;
-  background-color: $blockquote-background;
-  border-left: 0.25rem solid $blockquote-border;
-  color: $blockquote-text;
+  background-color: $light-blockquote-background;
+  border-left: 0.25rem solid $light-blockquote-border;
+  color: $light-blockquote-text;
   margin: 0.8rem 0;
   padding: 18px;
 
   p:last-child {
     margin-bottom: 0;
+  }
+
+  .dark-mode & {
+    background-color: $dark-blockquote-background;
+    border-left: 0.25rem solid $dark-blockquote-border;
+    color: $dark-blockquote-text;
   }
 }
 
