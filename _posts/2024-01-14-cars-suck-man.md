@@ -12,13 +12,13 @@ I am not car aficionado, in fact, I am probably less interested in cars than the
 
 Have you tried shopping for a TV in the past 5 years? Actually, scratch that -- have you _used_ a "smart" TV in the past 5 years? -- it's awful. Sure, displays are getting better, but manufacturers insist on cramming bloatware and spyware, embellished in the worst UI imaginable, running on a processor designed for a smartwatch.
 
-<img src="/assets/images/cars-suck-man/smart-tv-pooramid.png" width="200" /> _The Essential Smart TV Pooramid_
+<img class="svg-image" src="/assets/images/cars-suck-man/smart-tv-pooramid.svg" width="200" /> _The Essential Smart TV Pooramid_
 
 Picture quality is at phenomenal levels, even on low-cost offerings, but those inky blanks come at the cost of compromised privacy and ad-infested UI.
 
 So what do cars have to do with any of this? Every product that takes a concrete position in human dynamics, be it a TV, a fridge or a car, follows a relatively predictable evolution: it starts of limited but promising, gets meaningful upgrades, and eventually slides into into the valley of "enshittification". Few are those who climb their way out of the shit-pit, fewer still are those who avoid it entirely.
 
-<img src="/assets/images/cars-suck-man/valley-of-enshittification.png"/> _100% science based chart_
+<img class="svg-image" src="/assets/images/cars-suck-man/valley-of-enshittification.svg"/> _100% science based chart_
 
 ### What's so wrong with cars then?
 
