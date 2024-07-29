@@ -89,3 +89,21 @@ td {
 footer span {
   margin-right: 10px;
 }
+
+.icon-button {
+  display: inline-block;
+  text-decoration: none;
+}
+
+.icon-button svg {
+  fill: $light-shade;
+  vertical-align: bottom;
+  width: 0.8em;
+  height: auto;
+  padding: 0;
+  margin-bottom: 4px;
+
+  .dark-mode & {
+    fill: $dark-shade;
+  }
+}

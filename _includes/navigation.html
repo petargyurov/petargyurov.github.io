@@ -4,7 +4,6 @@
       <h2 class="nav-title">{{ site.title }}</h2>
     </a>
     <ul>
-      <li><button id="dark-mode-toggle">Toggle Dark Mode</button></li>
       <li><a href="{{ '/about' | prepend: site.baseurl }}">About</a></li>
       <li>
         <a href="{{ '/photography' | prepend: site.baseurl }}">Photography</a>
@@ -12,30 +11,37 @@
       <li>
         <a href="{{ '/bookshelf' | prepend: site.baseurl }}">Bookshelf</a>
       </li>
+      <li>
+        <a href="#" id="dark-mode-toggle" class="icon-button"> 🌚 </a>
+      </li>
     </ul>
   </div>
 </nav>
 
 <script>
   document.addEventListener("DOMContentLoaded", (event) => {
+    event.preventDefault();
+
     const toggleButton = document.getElementById("dark-mode-toggle");
     const body = document.body;
 
-    // Check for saved user preference and apply it
+    // check for saved user preference and apply it
     if (localStorage.getItem("dark-mode") === "enabled") {
       body.classList.add("dark-mode");
+      toggleButton.textContent = "🌞";
     }
 
-    // Add event listener for the toggle button
+    // add event listener for the toggle button
     toggleButton.addEventListener("click", () => {
-      console.log(123);
       body.classList.toggle("dark-mode");
 
-      // Save the user's preference
+      // save the user's preference and change icon
       if (body.classList.contains("dark-mode")) {
         localStorage.setItem("dark-mode", "enabled");
+        toggleButton.textContent = "🌞";
       } else {
         localStorage.removeItem("dark-mode");
+        toggleButton.textContent = "🌚";
       }
     });
   });
