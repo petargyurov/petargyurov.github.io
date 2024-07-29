@@ -11,6 +11,38 @@
       <li>
         <a href="{{ '/bookshelf' | prepend: site.baseurl }}">Bookshelf</a>
       </li>
+      <li>
+        <a href="#" id="dark-mode-toggle" class="icon-button"> 🌚 </a>
+      </li>
     </ul>
   </div>
 </nav>
+
+<script>
+  document.addEventListener("DOMContentLoaded", (event) => {
+    event.preventDefault();
+
+    const toggleButton = document.getElementById("dark-mode-toggle");
+    const body = document.body;
+
+    // check for saved user preference and apply it
+    if (localStorage.getItem("dark-mode") === "enabled") {
+      body.classList.add("dark-mode");
+      toggleButton.textContent = "🌞";
+    }
+
+    // add event listener for the toggle button
+    toggleButton.addEventListener("click", () => {
+      body.classList.toggle("dark-mode");
+
+      // save the user's preference and change icon
+      if (body.classList.contains("dark-mode")) {
+        localStorage.setItem("dark-mode", "enabled");
+        toggleButton.textContent = "🌞";
+      } else {
+        localStorage.removeItem("dark-mode");
+        toggleButton.textContent = "🌚";
+      }
+    });
+  });
+</script>

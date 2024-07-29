@@ -24,20 +24,20 @@
 }
 
 .timeline-info {
-//   font-size: 12px;
+  //   font-size: 12px;
   font-weight: 700;
   letter-spacing: 2px;
   text-transform: uppercase;
   white-space: nowrap;
-//   margin-top: 5px;
+  //   margin-top: 5px;
   em {
-      color: $grey-1;
-      font-size: 12px;
-      white-space: normal;
-      text-align: center;
-      text-transform: none;
-      font-weight: initial;
-      letter-spacing: initial;
+    color: $grey-1;
+    font-size: 12px;
+    white-space: normal;
+    text-align: center;
+    text-transform: none;
+    font-weight: initial;
+    letter-spacing: initial;
   }
 }
 
@@ -48,7 +48,7 @@
   left: 0;
   width: 15px;
   &:before {
-    background: $default-color;
+    background: $light-text-color;
     border: 3px solid transparent;
     border-radius: 100%;
     content: "";
@@ -75,13 +75,13 @@
   }
 }
 .timeline-item:not(.period):hover .timeline-marker:before {
-  background: $accent-color;
+  background: $light-accent-color;
 }
 
 .timeline-content {
   padding-bottom: 40px;
   p {
-      font-size: 13px;
+    font-size: 13px;
   }
 
   p:last-child {
@@ -89,12 +89,12 @@
   }
 
   img {
-      margin-top: 0.5em;
-      margin-bottom: 0.5em;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
   }
 
   em {
-      margin-bottom: 0.5em;
+    margin-bottom: 0.5em;
   }
 }
 

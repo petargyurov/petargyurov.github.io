@@ -2,7 +2,7 @@
   padding: 3rem 0;
 
   &-info {
-    color: $default-tint;
+    color: $light-tint;
     font-family: $sans-serif;
     letter-spacing: 0.5px;
     text-align: center;
@@ -10,29 +10,45 @@
     span {
       font-style: italic;
     }
+
+    .dark-mode & {
+      color: $dark-tint;
+    }
   }
 
   &-title {
-    color: $default-shade;
+    color: $light-shade;
     font-family: $sans-serif;
     font-size: 3rem;
     margin: 1rem 0;
     text-align: center;
+
+    .dark-mode & {
+      color: $dark-shade;
+    }
   }
 
   &-subtitle {
-    color: $default-shade;
+    color: $light-shade;
     font-family: $sans-serif;
     font-size: 2rem;
     margin: 1rem 0;
     text-align: center;
+
+    .dark-mode & {
+      color: $dark-shade;
+    }
   }
 
   &-line {
-    border-top: 0.4rem solid $default-shade;
+    border-top: 0.4rem solid $light-shade;
     display: block;
     margin: 0 auto 3rem;
     width: 4rem;
+
+    .dark-mode & {
+      border-top: 0.4rem solid $dark-shade;
+    }
   }
 
   p {
@@ -53,12 +69,16 @@
   }
 
   img + em {
-    color: $default-tint;
+    color: $light-tint;
     display: block;
     font-family: $sans-serif;
     font-size: 0.9rem;
     font-style: normal;
     text-align: center;
+
+    .dark-mode & {
+      color: $dark-tint;
+    }
   }
 
   // CSS for making emoji inline

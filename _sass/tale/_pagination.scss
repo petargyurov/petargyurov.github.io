@@ -1,37 +1,56 @@
 .pagination {
-  border-top: 2px solid $accent-color-dark;
+  border-top: 2px solid $light-tint;
   font-family: $sans-serif;
   padding-top: 2rem;
   position: relative;
   text-align: center;
 
+  .dark-mode & {
+    border-top: 2px solid $dark-tint;
+  }
+
   span {
-    color: $default-shade;
+    color: $light-shade;
     font-size: 1.1rem;
   }
 
   .top-button {
     @include transition(all 0.3s ease-out);
-    color: $accent-color;
+    color: $light-tint;
     font-family: $sans-serif;
     font-size: 1.1rem;
-    opacity: 0.6;
 
     &:hover {
-      opacity: 1;
+      color: $light-accent-color;
+    }
+
+    .dark-mode & {
+      color: $dark-tint;
+
+      &:hover {
+        color: $dark-accent-color;
+      }
     }
   }
 
   .arrow {
     @include transition(all 0.3s ease-out);
-    color: $accent-color;
+    color: $light-tint;
     position: absolute;
-    opacity: 0.6;
 
     &:hover,
     &:focus {
-      opacity: 1;
+      color: $light-accent-color;
       text-decoration: none;
+    }
+
+    .dark-mode & {
+      color: $dark-tint;
+
+      &:hover,
+      &:focus {
+        color: $dark-accent-color;
+      }
     }
   }
 

@@ -1,9 +1,25 @@
 .catalogue {
   &-item {
-    border-bottom: 2px solid $accent-color-dark;
-    color: $default-color;
+    border-bottom: 2px solid $grey-2;
+    color: $light-text-color;
     display: block;
     padding: 1rem 0;
+
+    .dark-mode & {
+      border-bottom: 2px solid $dark-accent-color;
+      color: $dark-text-color;
+
+      &:hover .catalogue-line,
+      &:focus .catalogue-line {
+        width: 5rem;
+        border-color: $dark-accent-color;
+      }
+
+      &:hover .catalogue-title,
+      &:focus .catalogue-title {
+        color: $dark-code-color;
+      }
+    }
 
     .catalogue-line {
       margin-bottom: 0.5rem;
@@ -12,12 +28,12 @@
     &:hover .catalogue-line,
     &:focus .catalogue-line {
       width: 5rem;
-      border-color: $accent-color;
+      border-color: $light-accent-color;
     }
 
     &:hover .catalogue-title,
     &:focus .catalogue-title {
-      color: $code-color;
+      color: $light-accent-color;
     }
 
     &:last-child {
@@ -26,14 +42,14 @@
   }
 
   &-time {
-    color: $default-tint;
+    color: $light-tint;
     font-family: $sans-serif;
     letter-spacing: 0.5px;
   }
 
   &-title {
     @include transition(all 0.3s ease-out);
-    color: $default-shade;
+    color: $light-shade;
     display: block;
     font-family: $sans-serif;
     font-weight: 700;
@@ -41,7 +57,7 @@
   }
 
   &-subtitle {
-    color: $default-tint;
+    color: $light-tint;
     display: block;
     font-family: $sans-serif;
     font-weight: 700;
@@ -50,15 +66,21 @@
 
   &-line {
     @include transition(all 0.3s ease-out);
-    border-top: 0.2rem solid $default-shade;
+    border-top: 0.2rem solid $light-shade;
     display: block;
     width: 2rem;
   }
 
   &-divider {
-    border-top: 0.2rem solid $default-shade;
+    border-top: 0.2rem solid $light-shade;
     display: block;
     width: 5rem;
-    border-color: $accent-color;
+    border-color: $light-accent-color;
+
+    .dark-mode & {
+      &-divider {
+        border-color: $dark-accent-color;
+      }
+    }
   }
 }

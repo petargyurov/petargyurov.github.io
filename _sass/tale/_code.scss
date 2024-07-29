@@ -1,14 +1,19 @@
 pre,
 code {
-  font-family: $sans-serif;
+  font-family: $monospaced;
 }
 
 code {
-  background-color: $code-background;
+  background-color: $light-code-background;
   border-radius: 3px;
-  color: $code-color;
+  color: $light-code-color;
   font-size: 85%;
   padding: 0.25em 0.5em;
+
+  .dark-mode & {
+    background-color: $dark-code-background;
+    color: $dark-code-color;
+  }
 }
 
 pre {
@@ -17,13 +22,17 @@ pre {
 
 pre code {
   background-color: transparent;
-  color: $code-color;
+  color: $light-code-color;
   font-size: 100%;
   padding: 0;
+
+  .dark-mode & {
+    color: $dark-code-color;
+  }
 }
 
 .highlight {
-  background-color: $code-background;
+  background-color: $light-code-background;
   border-radius: 3px;
   line-height: 1.4;
   margin: 0 0 1rem;
@@ -35,12 +44,19 @@ pre code {
   }
 
   .lineno {
-    color: $code-color;
+    color: $light-code-color;
     display: inline-block; // Ensures the null space also isn't selectable
     padding: 0 0.75rem 0 0.25rem;
     // Make sure numbers aren't selectable
     -webkit-user-select: none;
     -moz-user-select: none;
     user-select: none;
+  }
+
+  .dark-mode & {
+    background-color: $dark-code-background;
+    .lineno {
+      color: $dark-code-color;
+    }
   }
 }
