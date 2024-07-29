@@ -90,6 +90,12 @@ footer span {
   margin-right: 10px;
 }
 
+.svg-image {
+  .dark-mode & {
+    filter: invert(1);
+  }
+}
+
 .icon-button {
   display: inline-block;
   text-decoration: none;
