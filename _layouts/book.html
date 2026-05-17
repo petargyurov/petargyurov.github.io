@@ -57,87 +57,77 @@ layout: default
   }
 
   const SLANTED_BOOK_ANGLE = 12;
-  const MIN_BOOK_HEIGHT = 220;
-  const MAX_BOOK_HEIGHT = 290;
+const MIN_BOOK_HEIGHT = 220;
+const MAX_BOOK_HEIGHT = 290;
+const MIN_SPINE_WIDTH = 20;
+const MAX_SPINE_WIDTH = 65;
 
-  let spines = Array.from(document.getElementsByClassName("spine"));
-  let covers = Array.from(document.getElementsByClassName("cover"));
-  let tops = Array.from(document.getElementsByClassName("top"));
-  let books = Array.from(document.getElementsByClassName("book"));
-  let bookPages = [...books].map((el) => parseInt(el.dataset.pages));
+let spines = Array.from(document.getElementsByClassName("spine"));
+let covers = Array.from(document.getElementsByClassName("cover"));
+let tops = Array.from(document.getElementsByClassName("top"));
+let books = Array.from(document.getElementsByClassName("book"));
 
-  let availablePatterns = getRootCssStyles();
+let availablePatterns = getRootCssStyles();
 
-  let availableColors = [
-    "maroon",
-    "darkgreen",
-    "darkolivegreen",
-    "brown",
-    "saddlebrown",
-    "sienna",
-    "midnightblue",
-  ];
+let availableColors = [
+  "maroon",
+  "darkgreen",
+  "darkolivegreen",
+  "brown",
+  "saddlebrown",
+  "sienna",
+  "midnightblue",
+];
 
-  const MIN_BOOK_PAGES = Math.min(...bookPages) || 20;
-  const MAX_BOOK_PAGES = Math.max(...bookPages) || 65;
-  console.log(MIN_BOOK_PAGES, MAX_BOOK_PAGES);
+// assign a random height, width, pattern and colour to each book
+spines.map(function (s, i) {
+  let randomHeight = getRandomInt(MIN_BOOK_HEIGHT, MAX_BOOK_HEIGHT);
+  let randomSpineWidth = getRandomInt(MIN_SPINE_WIDTH, MAX_SPINE_WIDTH);
 
-  // assign a random height, width, pattern and colour to each book
-  spines.map(function (s, i) {
-    let randomHeight = getRandomInt(MIN_BOOK_HEIGHT, MAX_BOOK_HEIGHT);
+  books[i].style.width = `${randomSpineWidth}px`;
 
-    let nPages = bookPages[i];
-    if (nPages) {
-      // normalise between MAX and MIN thresholds
-      nPages = Math.min(Math.max(nPages, MIN_BOOK_PAGES), MAX_BOOK_PAGES);
-    } else {
-      nPages = getRandomInt(MIN_BOOK_PAGES, MAX_BOOK_PAGES);
-    }
+  s.style.height = `${randomHeight}px`;
+  s.style.width = `${randomSpineWidth}px`;
+  s.style.top = `${280 - randomHeight}px`;
 
-    books[i].style.width = `${nPages}px`;
-    console.log(i, nPages);
+  let randomPattern = randomChoice(availablePatterns);
+  s.style.backgroundImage = `var(${randomPattern})`;
 
-    s.style.height = `${randomHeight}px`;
-    s.style.width = `${nPages}px`;
-    s.style.top = `${280 - randomHeight}px`;
+  let randomColor = randomChoice(availableColors);
+  s.style.backgroundColor = randomColor;
 
-    let randomPattern = randomChoice(availablePatterns);
-    s.style.backgroundImage = `var(${randomPattern})`;
+  covers[i].style.height = `${randomHeight}px`;
+  covers[i].style.top = `${280 - randomHeight}px`;
 
-    let randomColor = randomChoice(availableColors);
-    s.style.backgroundColor = randomColor;
+  tops[i].style.width = `${randomSpineWidth}px`;
+  tops[i].style.top = `${280 - randomHeight}px`;
 
-    covers[i].style.height = `${randomHeight}px`;
-    covers[i].style.top = `${280 - randomHeight}px`;
+  covers[i].style.left = `${randomSpineWidth}px`;
+});
 
-    tops[i].style.width = `${nPages}px`;
-    tops[i].style.top = `${280 - randomHeight}px`;
+// handle positioning for leaning books
+books.forEach(function (book, i) {
+  if (!book.classList.contains("slanted-book")) {
+    return;
+  }
 
-    covers[i].style.left = `${nPages}px`;
-  });
+  book.style.setProperty("--lean-angle", `-${SLANTED_BOOK_ANGLE}deg`);
 
-  // handle positioning for leaning books
-  books.forEach(function (book, i) {
-    if (!book.classList.contains("slanted-book")) {
-      return;
-    }
+  let computedBookStyles = getComputedStyle(book);
+  let baseMarginLeft = parseFloat(computedBookStyles.marginLeft) || 0;
+  let leanAngle = getAngleInRadians(
+    computedBookStyles.getPropertyValue("--lean-angle"),
+  );
 
-    book.style.setProperty("--lean-angle", `-${SLANTED_BOOK_ANGLE}deg`);
+  let previousBook = books[i - 1];
 
-    let computedBookStyles = getComputedStyle(book);
-    let baseMarginLeft = parseFloat(computedBookStyles.marginLeft) || 0;
-    let leanAngle = getAngleInRadians(
-      computedBookStyles.getPropertyValue("--lean-angle"),
-    );
+  // if the previous book is a non-leaning book, offset the position for the current leaning book
+  if (previousBook && !previousBook.classList.contains("slanted-book")) {
+    let spineHeight = spines[i].offsetHeight;
+    let currentSpineHeight = parseFloat(spineHeight);
+    let offset = Math.abs(Math.sin(leanAngle) * currentSpineHeight) + 1;
+    book.style.marginLeft = `${offset}px`;
+  }
+});
 
-    let previousBook = books[i - 1];
-
-    // if the previous book is a non-leaning book, offset the position for the current leaning book
-    if (previousBook && !previousBook.classList.contains("slanted-book")) {
-      let spineHeight = spines[i].offsetHeight;
-      let currentSpineHeight = parseFloat(spineHeight);
-      let offset = Math.abs(Math.sin(leanAngle) * currentSpineHeight) + 1;
-      book.style.marginLeft = `${offset}px`;
-    }
-  });
 </script>
