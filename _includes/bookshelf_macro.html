@@ -11,7 +11,7 @@
     </h2>
     <div class="bookshelf">
       {% for book in books %}
-      <div class="book">
+      <div class="book {% if book.unfinished %}slanted-book{% endif %}"  data-pages="{{ book.pages }}">
         <div class="side spine">
           <span class="spine-title"> {{ book.title }} </span>
           <span class="spine-author">
