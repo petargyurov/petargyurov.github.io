@@ -6,7 +6,7 @@ permalink: /about/
 ---
 
 I am multidisciplinary dev who likes to dabble in everything, from design and
-art to backends and Dev Ops. I studied Theoretical Physics at
+art to web platforms and games. I studied Theoretical Physics at
 university and have almost a decade of experience in software development.
 
 I like learning new things and working on problems that matter 🌳

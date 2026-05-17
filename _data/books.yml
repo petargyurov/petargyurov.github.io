@@ -1,251 +1,381 @@
+- title: Flowers for Algernon
+  year: 2026
+  author: Daniel Keyes
+  cover: https://covers.openlibrary.org/b/id/12947669-L.jpg
+  notes: >
+
+- title: Dungeon Crawler Carl
+  year: 2026
+  author: Matt Dinniman
+  cover: https://covers.openlibrary.org/b/id/15143022-L.jpg
+  notes: >
+
+- title: The Trial
+  year: 2026
+  author: Franz Kafka
+  cover: https://covers.openlibrary.org/b/id/15082914-L.jpg
+  unfinished: true
+  notes: >
+
+- title: Brave New World
+  year: 2025
+  author: Aldous Huxley
+  cover: https://covers.openlibrary.org/b/id/15170943-L.jpg
+  notes: >
+
+- title: Neuromancer
+  year: 2025
+  author: William Gibson
+  cover: https://covers.openlibrary.org/b/id/8904053-L.jpg
+  unfinished: true
+  notes: >
+
+- title: Family Experiment
+  year: 2025
+  author: John Marrs
+  cover: https://covers.openlibrary.org/b/id/15152786-L.jpg
+  unfinished: true
+  notes: >
+
+- title: Slow Horses
+  year: 2025
+  author: Mick Herron
+  cover: https://covers.openlibrary.org/b/id/12861756-L.jpg
+  unfinished: true
+  notes: >
+
+- title: Darwinia
+  year: 2025
+  author: Robert Charles Wilson
+  cover: https://covers.openlibrary.org/b/id/9570893-L.jpg
+  notes: >
+
+- title: One Hundred Years of Solitude
+  year: 2025
+  author: Gabriel Garcia Marquez
+  cover: https://covers.openlibrary.org/b/id/14651643-L.jpg
+  unfinished: true
+  notes: >
+
+- title: The Andromeda Strain
+  year: 2025
+  author: Michael Crichton
+  cover: https://covers.openlibrary.org/b/id/14864193-L.jpg
+  notes: >
+
+- title: Project Hail Mary
+  year: 2025
+  author: Andy Weir
+  cover: https://covers.openlibrary.org/b/id/15208263-L.jpg
+  notes: >
+
+- title: Starter Villain
+  year: 2025
+  author: John Scalzi
+  cover: https://covers.openlibrary.org/b/id/14432013-L.jpg
+  notes: >
+
+- title: Elantris
+  year: 2024
+  author: Brandon Sanderson
+  cover: https://covers.openlibrary.org/b/id/14658400-L.jpg
+  notes: >
+
+- title: Blindsight
+  year: 2024
+  author: Peter Watts
+  cover: https://covers.openlibrary.org/b/id/15087925-L.jpg
+  notes: >
+
+- title: An Immense World
+  year: 2024
+  author: Ed Yong
+  cover: https://covers.openlibrary.org/b/id/14576374-L.jpg
+  unfinished: true
+  notes: >
+
+- title: We Are Legion (We Are Bob)
+  year: 2024
+  author: Dennis Taylor
+  cover: https://covers.openlibrary.org/b/id/8421582-L.jpg
+  notes: >
+
+- title: Annihilation
+  year: 2023
+  author: Jeff VanderMeer
+  cover: https://covers.openlibrary.org/b/id/15142260-L.jpg
+  notes: >
+
+- title: The Name of the Wind
+  year: 2023
+  author: Patrick Rothfuss
+  cover: https://covers.openlibrary.org/b/id/12391248-L.jpg
+  notes: >
+
+- title: Cat's Cradle
+  year: 2023
+  author: Kurt Vonnegut
+  cover: https://covers.openlibrary.org/b/id/14823370-L.jpg
+  notes: >
+
 - title: The Knife of Never Letting Go
   year: 2023
   author: Patrick Ness
-  cover: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1534503008i/20758104.jpg
+  cover: https://covers.openlibrary.org/b/id/10187514-L.jpg
+  notes: >
+
+- title: The Hidden Life of Trees
+  year: 2023
+  author: Peter Wohlleben
+  cover: https://covers.openlibrary.org/b/id/10357562-L.jpg
+  unfinished: true
   notes: >
 
 - title: Alchemy
   year: 2023
   author: Rory Sutherland
-  cover: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1549539347i/26210508.jpg
+  cover: https://covers.openlibrary.org/b/id/15087872-M.jpg
+  unfinished: true
   notes: >
 
 - title: Imperium
   year: 2023
   author: Robert Harris
-  cover: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442657816i/243601.jpg
+  cover: https://covers.openlibrary.org/b/id/72952-M.jpg
   notes: >
 
 - title: Roadside Picnic
   year: 2023
   author: Strugatsky's
-  cover: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1173812259i/331256.jpg
+  cover: https://covers.openlibrary.org/b/id/14633429-M.jpg
   notes: >
 
 - title: The Joy of Small Things
   year: 2022
   author: Hanna Parkinson
-  cover: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1633757045i/57123678.jpg
+  cover: https://covers.openlibrary.org/b/id/13219506-M.jpg
   notes: >
 
 - title: Old Man's War
   year: 2022
   author: John Scalzi
-  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509467059l/36510196._SY475_.jpg
+  cover: https://covers.openlibrary.org/b/id/3365280-M.jpg
   notes: >
 
 - title: American Gods
   year: 2022
   author: Neil Gaiman
-  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1462924585l/30165203.jpg
+  cover: https://covers.openlibrary.org/b/id/14420908-M.jpg
   notes: >
 
 - title: The Ninth Metal
   year: 2022
   author: Benjamin Percy
-  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1620355807l/53968532.jpg
+  cover: https://covers.openlibrary.org/b/id/11292360-M.jpg
   notes: >
 
 - title: The Gone World
   year: 2022
   author: Tom Sweterlitsch
-  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500302928l/33413556.jpg
+  cover: https://covers.openlibrary.org/b/id/14832007-M.jpg
   notes: >
 
 - title: The Unfolding of Language
   year: 2022
   author: Guy Deutscher
-  cover: https://i.pinimg.com/236x/06/b3/af/06b3aff2760a3535d20ef3c8823be61e--the-evolution-language.jpg
+  cover: https://covers.openlibrary.org/b/id/6671357-L.jpg
+  unfinished: true
   notes: >
 
 - title: Rich Dad Poor Dad
   year: 2022
   author: Robert Kiyosaki
-  cover: https://m.media-amazon.com/images/I/51u8ZRDCVoL.jpg
+  cover: https://covers.openlibrary.org/b/id/15163992-M.jpg
   notes: >
 
 - title: The Picture of Dorian Gray
   year: 2022
   author: Oscar Wilde
-  cover: https://i.pinimg.com/originals/82/d1/ee/82d1eebd706f5e26e3ebd9e2feb52d95.jpg
+  cover: https://covers.openlibrary.org/b/id/14314700-M.jpg
   notes: >
 
 - title: Spin
   year: 2022
   author: Robert Wilson
-  cover: http://prodimage.images-bn.com/pimages/9780765348258_p0_v2_s1200x630.jpg
+  cover: https://covers.openlibrary.org/b/id/6632328-M.jpg
   notes: >
 
 - title: The Road
   year: 2022
   author: Cormac McCarthy
-  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1600241424l/6288.jpg
+  cover: https://covers.openlibrary.org/b/id/14818120-M.jpg
   notes: >
 
 - title: The Spy Who Came in from the Cold
   year: 2022
   author: John Carré
-  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327719782l/19494.jpg
+  cover: https://covers.openlibrary.org/b/id/13070970-M.jpg
   notes: >
 
 - title: The Anthropocene Reviewed
   year: 2022
   author: John Green
-  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1616514130l/55145261.jpg
+  cover: https://covers.openlibrary.org/b/id/12690020-L.jpg
   notes: >
 
 - title: Atomic Habits
   year: 2022
   author: James Clear
-  cover: https://s3-us-west-2.amazonaws.com/tabs.web.media/c/r/cr0m/cr0m-square-orig.jpg
+  cover: https://covers.openlibrary.org/b/id/15217381-M.jpg
   notes: >
 
 - title: Blink
   year: 2021
   author: Malcolm Gladwell
-  cover: https://upload.wikimedia.org/wikipedia/commons/4/49/Blinkgla.jpg
+  cover: https://covers.openlibrary.org/b/id/6406649-M.jpg
   notes: >
 
 - title: Bullshit Jobs
   year: 2022
   author: David Graeber
-  cover: https://upload.wikimedia.org/wikipedia/en/b/bb/Bullshit_Jobs.jpg
+  cover: https://covers.openlibrary.org/b/id/10720625-M.jpg
+  unfinished: true
   notes: >
 
 - title: Demon Cycle - Barren
   year: 2019
   author: Peter Brett
-  cover: https://m.media-amazon.com/images/I/51wlFWYXPWL._SL320_.jpg
+  cover: https://covers.openlibrary.org/b/id/8799703-M.jpg
   notes: >
 
 - title: Demon Cycle - Great Bazaar & Brayan's Gold
   year: 2019
   author: Peter Brett
-  cover: https://m.media-amazon.com/images/I/61b4xkwEzSL._SL320_.jpg
+  cover: https://covers.openlibrary.org/b/id/8984453-M.jpg
   notes: >
 
 - title: Demon Cycle - Messenger's Legacy
   year: 2019
   author: Peter Brett
-  cover: https://m.media-amazon.com/images/I/61HL3TeWXdL._SL320_.jpg
+  cover: https://covers.openlibrary.org/b/id/12635023-M.jpg
   notes: >
 
 - title: Demon Cycle - The Painted Man
   year: 2018
   author: Peter Brett
-  cover: https://upload.wikimedia.org/wikipedia/en/3/3d/Painted_man_cover_small.png
+  cover: https://covers.openlibrary.org/b/id/10207906-M.jpg
   notes: >
 
 - title: Demon Cycle - The Desert Spear
   year: 2018
   author: Peter Brett
-  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388219761i/6736971._SY180_.jpg
+  cover: https://covers.openlibrary.org/b/id/9906224-M.jpg
   notes: >
 
 - title: Demon Cycle - The Daylight War
   year: 2018
   author: Peter Brett
-  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360777092i/9268487._SY180_.jpg
+  cover: https://covers.openlibrary.org/b/id/7519497-M.jpg
   notes: >
 
 - title: Demon Cycle - The Skull Throne
   year: 2018
   author: Peter Brett
-  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408637760i/13630171._SY180_.jpg
+  cover: https://covers.openlibrary.org/b/id/12784498-M.jpg
   notes: >
 
 - title: Demon Cycle - Core
   year: 2018
   author: Peter Brett
-  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1487946539i/16096968._SY180_.jpg
+  cover: https://covers.openlibrary.org/b/id/8749031-M.jpg
   notes: >
 
 - title: Dune
   year: 2022
   author: Frank Herbert
-  cover: https://upload.wikimedia.org/wikipedia/en/d/de/Dune-Frank_Herbert_%281965%29_First_edition.jpg
+  cover: https://covers.openlibrary.org/b/id/15092781-M.jpg
   notes: >
 
 - title: Freakonomics
   year: 2021
   author: Steven Levitt
-  cover: https://upload.wikimedia.org/wikipedia/en/6/63/Freakonomics.jpg
+  cover: https://covers.openlibrary.org/b/id/11183900-L.jpg
   notes: >
 
 - title: Inspector Calls
   year: 2022
   author: John Priestley
-  cover: https://cdn2.penguin.com.au/covers/original/9780141185354.jpg
+  cover: https://covers.openlibrary.org/b/id/15137624-M.jpg
   notes: >
 
 - title: Kaiju Preservation Society
   year: 2022
   author: John Scalzi
-  cover: https://upload.wikimedia.org/wikipedia/en/0/0d/The_Kaiju_Preservation_Society.jpg
+  cover: https://covers.openlibrary.org/b/id/14677745-M.jpg
   notes: >
 
 - title: Klara and the Sun
   year: 2022
   author: Kazuo Ishiguro
-  cover: https://upload.wikimedia.org/wikipedia/en/2/26/Klara_and_the_Sun_%28Kazuo_Ishiguro%29.png
+  cover: https://covers.openlibrary.org/b/id/12818437-M.jpg
   notes: >
 
 - title: Other Minds
   year: 2019
   author: Peter Godfrey-Smith
-  cover: https://upload.wikimedia.org/wikipedia/en/3/37/Other_Minds_cover.jpg
+  cover: https://covers.openlibrary.org/b/id/9244367-M.jpg
   notes: >
 
 - title: Permutation City
   year: 2022
   author: Greg Egan
-  cover: https://upload.wikimedia.org/wikipedia/en/f/fe/PermutationCity%281stEd%29.jpg
+  cover: https://covers.openlibrary.org/b/id/44156-M.jpg
   notes: >
 
 - title: Sapiens
   year: 2018
   author: Yuval Harari
-  cover: https://m.media-amazon.com/images/I/41voLKA8u4L._SL320_.jpg
+  cover: https://covers.openlibrary.org/b/id/9137127-L.jpg
   notes: >
 
 - title: The Chronoliths
   year: 2019
   author: Robert Wilson
-  cover: https://upload.wikimedia.org/wikipedia/en/3/3b/TheChronoliths%281stEd%29.jpg
+  cover: https://covers.openlibrary.org/b/id/183352-M.jpg
   notes: >
 
 - title: The Curious Incident of the Dog in the Night Time
   year: 2022
   author: Mark Haddon
-  cover: https://upload.wikimedia.org/wikipedia/en/0/03/Curiousincidentofdoginnighttime.jpg
+  cover: https://covers.openlibrary.org/b/id/15163272-L.jpg
   notes: >
 
 - title: The Ocean at the End of the Lane
   year: 2018
   author: Neil Gaiman
-  cover: https://m.media-amazon.com/images/I/51usJpDlKkL._SL320_.jpg
+  cover: https://covers.openlibrary.org/b/id/15098920-M.jpg
   notes: >
 
 - title: The Scout Mindset
   year: 2021
   author: Julia Galef
-  cover: https://juliagalef.files.wordpress.com/2020/11/scout-mindset-1.jpg
+  cover: https://covers.openlibrary.org/b/id/14792523-M.jpg
   notes: >
 
 - title: The Subtle Art of Not Giving a Fuck
   year: 2019
   author: Mark Manson
-  cover: https://m.media-amazon.com/images/I/51MT0MbpD7L._SL320_.jpg
+  cover: https://covers.openlibrary.org/b/id/14832101-M.jpg
   notes: >
 
 - title: TWoT - The Eye of the World
   year: 2019
   author: Robert Jordan
-  cover: https://upload.wikimedia.org/wikipedia/en/0/00/WoT01_TheEyeOfTheWorld.jpg
+  cover: https://covers.openlibrary.org/b/id/603075-M.jpg
   notes: >
 
 - title: Dark Matter
   year: 2018
   author: Blake Crouch
-  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1472119680l/27833670._SY475_.jpg
+  cover: https://covers.openlibrary.org/b/id/15104743-M.jpg
   notes: >
